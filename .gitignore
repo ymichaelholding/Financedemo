@@ -1,0 +1,56 @@
+﻿# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Spark local artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+artifacts/
+checkpoints/
+
+# Local data and generated output
+data/raw/
+data/processed/
+output/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db

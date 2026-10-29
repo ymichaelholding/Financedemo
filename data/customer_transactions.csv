@@ -1,0 +1,2001 @@
+Customer_ID,Age,Gender,Location,Transaction_Amount,Purchase_Category,Payment_Method,Rating
+CUST_0001,19,Male,Los Angeles,446.74,Grocery,Cash,1
+CUST_0002,66,Female,Chicago,436.88,Electronics,Credit Card,4
+CUST_0003,51,Female,Chicago,138.9,Grocery,Credit Card,4
+CUST_0004,51,Female,Chicago,221.48,Clothing,PayPal,5
+CUST_0005,65,Female,Los Angeles,483.72,Grocery,Cash,1
+CUST_0006,68,Female,San Francisco,251.55,Grocery,Debit Card,3
+CUST_0007,60,Male,Houston,236.94,Clothing,Credit Card,4
+CUST_0008,52,Male,San Francisco,50.76,Clothing,Credit Card,1
+CUST_0009,26,Male,Houston,316.74,Sports,Google Pay,5
+CUST_0010,24,Female,Houston,124.85,Electronics,Cash,5
+CUST_0011,32,Male,Chicago,225.59,Home Decor,PayPal,5
+CUST_0012,43,Male,Los Angeles,418.77,Electronics,Cash,4
+CUST_0013,34,Male,Los Angeles,439.46,Books,Google Pay,5
+CUST_0014,34,Female,Houston,284.68,Electronics,Debit Card,2
+CUST_0015,31,Male,San Francisco,443.26,Grocery,Debit Card,2
+CUST_0016,69,Male,New York,148.02,Electronics,Google Pay,3
+CUST_0017,50,Male,Houston,84.25,Sports,Cash,3
+CUST_0018,64,Female,New York,126.35,Home Decor,Debit Card,1
+CUST_0019,21,Female,Los Angeles,384.15,Books,Cash,1
+CUST_0020,55,Female,Chicago,444.47,Home Decor,Debit Card,1
+CUST_0021,37,Male,New York,168.23,Grocery,PayPal,1
+CUST_0022,43,Female,Los Angeles,47.46,Electronics,Google Pay,2
+CUST_0023,30,Male,San Francisco,425.41,Sports,Debit Card,1
+CUST_0024,33,Male,San Francisco,153.14,Electronics,Cash,1
+CUST_0025,28,Male,New York,26.86,Clothing,PayPal,5
+CUST_0026,62,Female,Los Angeles,8.43,Electronics,Cash,1
+CUST_0027,60,Male,New York,100.35,Home Decor,Cash,4
+CUST_0028,49,Female,New York,364.56,Clothing,PayPal,4
+CUST_0029,24,Male,San Francisco,13.23,Books,Debit Card,1
+CUST_0030,54,Female,Los Angeles,288.33,Home Decor,PayPal,4
+CUST_0031,67,Male,New York,382.79,Sports,Google Pay,4
+CUST_0032,66,Female,Houston,466.36,Home Decor,Credit Card,1
+CUST_0033,53,Male,New York,239.0,Electronics,Google Pay,5
+CUST_0034,35,Female,Los Angeles,83.6,Books,PayPal,1
+CUST_0035,29,Male,Chicago,14.67,Electronics,PayPal,2
+CUST_0036,58,Male,Los Angeles,118.82,Grocery,PayPal,2
+CUST_0037,67,Female,San Francisco,484.88,Books,PayPal,2
+CUST_0038,64,Female,Los Angeles,346.88,Grocery,Debit Card,4
+CUST_0039,22,Male,San Francisco,257.74,Clothing,Debit Card,3
+CUST_0040,38,Male,San Francisco,116.58,Clothing,Google Pay,4
+CUST_0041,38,Female,Houston,21.83,Sports,Cash,4
+CUST_0042,59,Male,San Francisco,157.05,Grocery,PayPal,4
+CUST_0043,43,Male,New York,427.12,Home Decor,Credit Card,2
+CUST_0044,26,Female,San Francisco,49.97,Home Decor,Credit Card,2
+CUST_0045,20,Male,Los Angeles,279.28,Electronics,Debit Card,5
+CUST_0046,31,Female,San Francisco,199.52,Home Decor,Cash,5
+CUST_0047,19,Female,San Francisco,193.82,Home Decor,PayPal,1
+CUST_0048,41,Female,Chicago,486.71,Clothing,PayPal,2
+CUST_0049,47,Male,Houston,316.71,Electronics,PayPal,3
+CUST_0050,22,Male,Los Angeles,298.29,Home Decor,PayPal,2
+CUST_0051,63,Female,New York,232.55,Electronics,Credit Card,5
+CUST_0052,25,Male,New York,232.67,Home Decor,Cash,3
+CUST_0053,45,Female,Chicago,331.72,Grocery,Cash,3
+CUST_0054,47,Male,New York,120.67,Electronics,Google Pay,5
+CUST_0055,63,Female,Los Angeles,361.61,Sports,Debit Card,2
+CUST_0056,69,Female,Chicago,80.28,Sports,Google Pay,4
+CUST_0057,42,Male,New York,369.57,Home Decor,PayPal,1
+CUST_0058,39,Male,Houston,328.63,Sports,Cash,2
+CUST_0059,59,Male,San Francisco,29.45,Sports,Credit Card,2
+CUST_0060,64,Female,Los Angeles,120.53,Clothing,Credit Card,4
+CUST_0061,29,Male,Chicago,398.2,Grocery,PayPal,1
+CUST_0062,33,Male,San Francisco,85.81,Grocery,Cash,4
+CUST_0063,55,Female,San Francisco,369.15,Books,PayPal,3
+CUST_0064,63,Female,San Francisco,259.87,Electronics,Credit Card,3
+CUST_0065,41,Female,Houston,107.15,Home Decor,Google Pay,5
+CUST_0066,68,Female,New York,316.01,Grocery,Credit Card,1
+CUST_0067,22,Male,Los Angeles,63.24,Grocery,Debit Card,1
+CUST_0068,34,Female,Houston,81.06,Books,Credit Card,1
+CUST_0069,25,Female,San Francisco,275.76,Electronics,Debit Card,1
+CUST_0070,64,Male,New York,337.79,Sports,Credit Card,3
+CUST_0071,57,Male,Los Angeles,325.35,Electronics,Cash,4
+CUST_0072,28,Male,San Francisco,264.78,Clothing,Credit Card,1
+CUST_0073,35,Male,New York,321.01,Books,Credit Card,5
+CUST_0074,52,Male,Los Angeles,318.18,Clothing,Debit Card,4
+CUST_0075,64,Female,Chicago,458.19,Sports,Cash,4
+CUST_0076,20,Female,Los Angeles,181.8,Home Decor,Debit Card,5
+CUST_0077,41,Female,Chicago,57.92,Clothing,Credit Card,4
+CUST_0078,48,Male,Houston,322.66,Home Decor,Cash,4
+CUST_0079,58,Female,Houston,211.59,Clothing,Credit Card,4
+CUST_0080,22,Male,Chicago,216.43,Grocery,Cash,4
+CUST_0081,29,Male,San Francisco,56.15,Home Decor,Cash,3
+CUST_0082,29,Female,San Francisco,446.26,Books,Debit Card,2
+CUST_0083,19,Female,New York,242.49,Clothing,Credit Card,5
+CUST_0084,69,Female,Houston,442.03,Electronics,Debit Card,3
+CUST_0085,47,Male,Houston,388.49,Grocery,Credit Card,1
+CUST_0086,35,Male,Chicago,269.12,Clothing,Debit Card,5
+CUST_0087,51,Female,Los Angeles,260.1,Sports,Google Pay,1
+CUST_0088,20,Male,Chicago,186.45,Grocery,Debit Card,2
+CUST_0089,18,Female,Houston,296.64,Books,PayPal,4
+CUST_0090,33,Male,New York,153.86,Sports,Google Pay,4
+CUST_0091,49,Female,New York,221.4,Grocery,Debit Card,1
+CUST_0092,65,Female,Los Angeles,128.85,Grocery,Credit Card,4
+CUST_0093,38,Female,Houston,329.99,Electronics,Cash,4
+CUST_0094,63,Male,Los Angeles,451.41,Home Decor,Debit Card,2
+CUST_0095,24,Male,San Francisco,492.1,Clothing,PayPal,4
+CUST_0096,67,Female,San Francisco,177.68,Electronics,Google Pay,2
+CUST_0097,59,Male,Chicago,310.71,Books,Google Pay,4
+CUST_0098,49,Female,New York,174.93,Clothing,Debit Card,4
+CUST_0099,68,Female,Los Angeles,171.94,Home Decor,Cash,3
+CUST_0100,56,Male,Los Angeles,339.54,Clothing,Cash,4
+CUST_0101,42,Female,Chicago,139.24,Electronics,Debit Card,5
+CUST_0102,26,Male,Chicago,51.6,Electronics,Debit Card,3
+CUST_0103,56,Female,Chicago,439.97,Home Decor,Cash,3
+CUST_0104,39,Male,New York,74.04,Books,Credit Card,3
+CUST_0105,18,Male,Los Angeles,45.81,Electronics,Credit Card,1
+CUST_0106,61,Male,Chicago,247.13,Clothing,Credit Card,5
+CUST_0107,47,Female,New York,201.3,Clothing,Credit Card,5
+CUST_0108,46,Male,Chicago,381.34,Sports,Debit Card,4
+CUST_0109,34,Female,New York,434.24,Home Decor,Debit Card,3
+CUST_0110,50,Female,Chicago,59.04,Electronics,Cash,1
+CUST_0111,49,Female,San Francisco,426.02,Sports,Debit Card,1
+CUST_0112,67,Male,Chicago,173.79,Sports,Cash,2
+CUST_0113,39,Female,Houston,142.01,Clothing,Credit Card,2
+CUST_0114,68,Male,San Francisco,479.76,Books,Credit Card,1
+CUST_0115,48,Male,Los Angeles,402.99,Home Decor,Cash,2
+CUST_0116,25,Female,Los Angeles,172.5,Sports,Debit Card,4
+CUST_0117,24,Female,San Francisco,167.44,Home Decor,Google Pay,3
+CUST_0118,43,Female,Chicago,480.13,Books,Credit Card,2
+CUST_0119,43,Male,Los Angeles,366.24,Home Decor,Cash,4
+CUST_0120,50,Male,New York,358.28,Sports,Debit Card,3
+CUST_0121,30,Female,Los Angeles,250.41,Sports,Credit Card,2
+CUST_0122,57,Female,Chicago,131.46,Home Decor,Cash,3
+CUST_0123,47,Male,Houston,101.47,Clothing,PayPal,5
+CUST_0124,29,Female,Chicago,238.53,Grocery,PayPal,4
+CUST_0125,62,Female,New York,358.86,Grocery,PayPal,5
+CUST_0126,52,Female,Houston,236.5,Clothing,Google Pay,4
+CUST_0127,42,Male,San Francisco,386.13,Clothing,Credit Card,4
+CUST_0128,28,Male,Chicago,33.44,Clothing,Credit Card,3
+CUST_0129,43,Male,Houston,160.11,Electronics,Credit Card,1
+CUST_0130,32,Male,New York,408.97,Books,Credit Card,5
+CUST_0131,56,Female,San Francisco,7.92,Clothing,Google Pay,3
+CUST_0132,35,Male,New York,413.19,Books,Cash,4
+CUST_0133,27,Male,Houston,474.74,Electronics,Credit Card,1
+CUST_0134,26,Female,San Francisco,143.69,Books,Cash,4
+CUST_0135,23,Male,Los Angeles,15.38,Home Decor,Google Pay,4
+CUST_0136,63,Male,Los Angeles,68.51,Home Decor,Google Pay,5
+CUST_0137,40,Female,Chicago,439.55,Grocery,Cash,5
+CUST_0138,31,Female,Chicago,326.66,Sports,Credit Card,3
+CUST_0139,52,Male,New York,138.79,Home Decor,Credit Card,5
+CUST_0140,64,Male,New York,80.17,Home Decor,Cash,4
+CUST_0141,41,Female,New York,296.92,Electronics,Cash,4
+CUST_0142,20,Male,Los Angeles,321.94,Grocery,Credit Card,1
+CUST_0143,21,Female,San Francisco,344.87,Grocery,Google Pay,2
+CUST_0144,48,Female,Chicago,362.6,Electronics,Debit Card,4
+CUST_0145,45,Male,Chicago,82.27,Clothing,Credit Card,5
+CUST_0146,61,Male,New York,392.63,Clothing,PayPal,3
+CUST_0147,54,Female,Chicago,174.83,Grocery,PayPal,3
+CUST_0148,51,Male,Chicago,151.81,Grocery,Cash,2
+CUST_0149,27,Female,Chicago,433.15,Grocery,Cash,2
+CUST_0150,37,Male,Los Angeles,79.65,Books,PayPal,3
+CUST_0151,24,Female,New York,105.37,Sports,Google Pay,3
+CUST_0152,53,Female,Chicago,463.39,Clothing,PayPal,4
+CUST_0153,54,Male,Chicago,190.9,Books,Debit Card,2
+CUST_0154,43,Male,Los Angeles,43.53,Electronics,Google Pay,1
+CUST_0155,25,Female,Chicago,57.04,Home Decor,Credit Card,1
+CUST_0156,47,Female,Los Angeles,141.07,Books,Credit Card,5
+CUST_0157,51,Female,Los Angeles,114.77,Books,PayPal,4
+CUST_0158,49,Male,Chicago,11.77,Books,Google Pay,1
+CUST_0159,56,Male,New York,6.67,Books,Google Pay,3
+CUST_0160,43,Male,Chicago,461.87,Clothing,Debit Card,4
+CUST_0161,44,Male,Los Angeles,100.45,Sports,Google Pay,4
+CUST_0162,49,Male,San Francisco,57.81,Electronics,PayPal,3
+CUST_0163,55,Female,New York,154.57,Home Decor,Debit Card,1
+CUST_0164,63,Male,San Francisco,73.3,Books,Cash,2
+CUST_0165,46,Female,San Francisco,396.55,Clothing,PayPal,5
+CUST_0166,48,Male,Los Angeles,464.62,Clothing,PayPal,5
+CUST_0167,62,Female,New York,343.72,Electronics,Debit Card,4
+CUST_0168,21,Male,New York,36.47,Grocery,Google Pay,5
+CUST_0169,45,Female,Los Angeles,327.36,Home Decor,PayPal,4
+CUST_0170,64,Female,Houston,17.03,Home Decor,Cash,3
+CUST_0171,40,Female,Chicago,228.58,Electronics,PayPal,5
+CUST_0172,29,Male,San Francisco,83.0,Sports,Cash,1
+CUST_0173,40,Female,New York,145.42,Clothing,Credit Card,4
+CUST_0174,49,Female,Chicago,149.6,Electronics,PayPal,4
+CUST_0175,59,Female,Chicago,117.4,Grocery,Cash,5
+CUST_0176,48,Female,Houston,144.76,Books,Google Pay,3
+CUST_0177,32,Female,Los Angeles,356.54,Books,Debit Card,2
+CUST_0178,31,Male,New York,349.37,Grocery,Google Pay,5
+CUST_0179,22,Female,San Francisco,177.58,Clothing,PayPal,4
+CUST_0180,30,Female,Chicago,26.19,Clothing,Google Pay,5
+CUST_0181,52,Male,Chicago,255.73,Electronics,Credit Card,1
+CUST_0182,58,Female,San Francisco,369.09,Sports,PayPal,5
+CUST_0183,30,Female,San Francisco,470.77,Sports,Cash,4
+CUST_0184,44,Female,Los Angeles,141.17,Clothing,PayPal,1
+CUST_0185,53,Female,Chicago,110.91,Home Decor,Cash,3
+CUST_0186,64,Male,San Francisco,294.45,Electronics,PayPal,5
+CUST_0187,21,Male,Los Angeles,261.31,Home Decor,Credit Card,1
+CUST_0188,41,Male,San Francisco,98.82,Clothing,PayPal,3
+CUST_0189,58,Male,Los Angeles,217.33,Books,Credit Card,1
+CUST_0190,33,Female,New York,288.42,Grocery,Cash,2
+CUST_0191,66,Female,Chicago,468.64,Grocery,Cash,3
+CUST_0192,60,Female,Los Angeles,309.28,Grocery,Credit Card,3
+CUST_0193,46,Male,Houston,51.45,Grocery,Google Pay,4
+CUST_0194,33,Female,San Francisco,90.03,Grocery,PayPal,4
+CUST_0195,64,Male,Houston,486.08,Electronics,Google Pay,1
+CUST_0196,59,Male,Chicago,341.48,Clothing,Cash,4
+CUST_0197,63,Female,San Francisco,169.51,Clothing,PayPal,1
+CUST_0198,27,Male,Los Angeles,290.81,Grocery,Credit Card,4
+CUST_0199,55,Female,Chicago,86.93,Electronics,PayPal,5
+CUST_0200,42,Male,Chicago,384.55,Clothing,Google Pay,2
+CUST_0201,50,Male,Chicago,37.84,Home Decor,Cash,3
+CUST_0202,26,Female,San Francisco,28.45,Books,Cash,2
+CUST_0203,37,Female,New York,343.62,Clothing,Credit Card,5
+CUST_0204,38,Male,San Francisco,393.13,Books,Credit Card,2
+CUST_0205,48,Male,San Francisco,485.73,Electronics,Credit Card,4
+CUST_0206,65,Female,New York,256.09,Books,Google Pay,2
+CUST_0207,56,Male,San Francisco,166.78,Sports,PayPal,3
+CUST_0208,27,Male,San Francisco,153.4,Clothing,Credit Card,3
+CUST_0209,64,Female,Houston,57.47,Books,Cash,2
+CUST_0210,59,Male,San Francisco,132.67,Electronics,Credit Card,4
+CUST_0211,33,Female,Houston,270.16,Books,Debit Card,2
+CUST_0212,31,Female,San Francisco,120.59,Books,Debit Card,3
+CUST_0213,59,Female,New York,63.89,Sports,PayPal,3
+CUST_0214,37,Female,New York,493.7,Home Decor,Cash,2
+CUST_0215,24,Female,Chicago,464.63,Home Decor,Debit Card,4
+CUST_0216,41,Female,Los Angeles,388.43,Grocery,Credit Card,4
+CUST_0217,36,Male,Los Angeles,206.45,Clothing,Debit Card,1
+CUST_0218,66,Female,Chicago,105.83,Books,PayPal,2
+CUST_0219,50,Male,New York,186.19,Grocery,Google Pay,1
+CUST_0220,51,Female,Chicago,183.9,Books,Debit Card,4
+CUST_0221,29,Female,New York,272.88,Home Decor,Cash,5
+CUST_0222,18,Male,San Francisco,23.28,Grocery,Cash,2
+CUST_0223,45,Female,Houston,8.76,Grocery,Debit Card,4
+CUST_0224,24,Male,New York,499.79,Clothing,Cash,5
+CUST_0225,34,Male,Houston,152.45,Books,Credit Card,1
+CUST_0226,43,Male,Chicago,350.75,Clothing,Google Pay,4
+CUST_0227,20,Male,New York,160.84,Sports,Google Pay,4
+CUST_0228,45,Female,New York,310.18,Electronics,Cash,4
+CUST_0229,42,Female,Houston,325.13,Books,Cash,1
+CUST_0230,60,Male,San Francisco,131.49,Books,Google Pay,2
+CUST_0231,44,Female,Houston,295.91,Sports,Google Pay,3
+CUST_0232,30,Male,San Francisco,53.38,Clothing,Google Pay,3
+CUST_0233,31,Male,San Francisco,194.75,Sports,PayPal,5
+CUST_0234,52,Male,New York,194.6,Sports,Debit Card,4
+CUST_0235,52,Female,Los Angeles,177.18,Clothing,Credit Card,5
+CUST_0236,40,Female,Los Angeles,383.28,Grocery,Credit Card,1
+CUST_0237,23,Male,Los Angeles,85.83,Sports,Credit Card,4
+CUST_0238,42,Male,San Francisco,185.07,Home Decor,Google Pay,3
+CUST_0239,69,Male,Houston,458.72,Sports,Cash,2
+CUST_0240,59,Female,Houston,225.87,Home Decor,Google Pay,3
+CUST_0241,44,Male,Houston,377.14,Home Decor,Cash,5
+CUST_0242,68,Female,Los Angeles,157.59,Home Decor,Cash,5
+CUST_0243,34,Male,New York,324.82,Home Decor,Google Pay,2
+CUST_0244,45,Female,Los Angeles,35.24,Home Decor,Google Pay,4
+CUST_0245,23,Male,Los Angeles,21.0,Clothing,Credit Card,1
+CUST_0246,45,Female,Houston,101.22,Sports,PayPal,1
+CUST_0247,67,Female,Chicago,463.33,Grocery,Cash,5
+CUST_0248,51,Male,San Francisco,186.12,Home Decor,Google Pay,3
+CUST_0249,52,Female,Chicago,387.96,Electronics,Credit Card,3
+CUST_0250,45,Male,New York,429.67,Electronics,Google Pay,3
+CUST_0251,40,Male,New York,138.4,Grocery,Cash,4
+CUST_0252,56,Male,San Francisco,81.7,Home Decor,PayPal,2
+CUST_0253,58,Female,New York,121.72,Clothing,Debit Card,4
+CUST_0254,35,Female,New York,175.35,Sports,Cash,4
+CUST_0255,37,Male,Chicago,132.11,Electronics,Debit Card,4
+CUST_0256,20,Female,San Francisco,305.53,Home Decor,Debit Card,2
+CUST_0257,53,Male,San Francisco,308.57,Books,Debit Card,5
+CUST_0258,55,Female,Los Angeles,409.55,Clothing,Debit Card,4
+CUST_0259,39,Female,Chicago,25.07,Books,Credit Card,2
+CUST_0260,57,Female,Chicago,19.19,Sports,Google Pay,3
+CUST_0261,40,Male,Chicago,366.8,Books,Debit Card,3
+CUST_0262,50,Male,Chicago,300.38,Sports,Credit Card,5
+CUST_0263,52,Female,Chicago,369.43,Sports,Cash,4
+CUST_0264,67,Female,New York,99.57,Home Decor,Cash,5
+CUST_0265,45,Male,Los Angeles,28.3,Books,PayPal,3
+CUST_0266,32,Male,Los Angeles,448.69,Sports,PayPal,3
+CUST_0267,43,Male,New York,189.89,Electronics,Credit Card,2
+CUST_0268,37,Female,Houston,210.32,Sports,PayPal,5
+CUST_0269,51,Male,San Francisco,381.36,Sports,PayPal,1
+CUST_0270,51,Female,New York,115.99,Clothing,Google Pay,3
+CUST_0271,55,Female,New York,195.13,Grocery,Google Pay,5
+CUST_0272,46,Female,Houston,485.28,Books,PayPal,5
+CUST_0273,18,Female,Los Angeles,19.3,Books,Credit Card,4
+CUST_0274,24,Male,San Francisco,430.93,Sports,Cash,4
+CUST_0275,63,Female,Houston,204.92,Grocery,Google Pay,5
+CUST_0276,59,Male,Chicago,91.76,Sports,Google Pay,1
+CUST_0277,62,Male,Los Angeles,369.98,Books,Credit Card,5
+CUST_0278,59,Female,Los Angeles,182.16,Home Decor,Google Pay,5
+CUST_0279,37,Male,Houston,128.61,Home Decor,Google Pay,2
+CUST_0280,19,Male,San Francisco,53.43,Sports,Credit Card,4
+CUST_0281,21,Female,Houston,334.33,Sports,PayPal,3
+CUST_0282,33,Female,Houston,100.51,Electronics,Debit Card,5
+CUST_0283,68,Female,Chicago,408.77,Sports,PayPal,4
+CUST_0284,32,Female,Chicago,352.67,Electronics,PayPal,5
+CUST_0285,53,Female,San Francisco,254.92,Home Decor,PayPal,2
+CUST_0286,19,Male,New York,382.12,Sports,PayPal,3
+CUST_0287,56,Male,San Francisco,119.43,Books,Cash,5
+CUST_0288,55,Female,Los Angeles,409.02,Home Decor,Google Pay,4
+CUST_0289,65,Male,Chicago,154.21,Books,Google Pay,4
+CUST_0290,36,Male,San Francisco,395.68,Home Decor,Credit Card,5
+CUST_0291,36,Male,San Francisco,406.31,Electronics,Google Pay,3
+CUST_0292,30,Male,San Francisco,239.35,Clothing,Credit Card,3
+CUST_0293,36,Male,Chicago,491.09,Books,PayPal,3
+CUST_0294,58,Male,New York,293.85,Books,Debit Card,3
+CUST_0295,23,Female,New York,194.78,Sports,Debit Card,5
+CUST_0296,63,Female,New York,151.22,Grocery,Google Pay,4
+CUST_0297,25,Female,San Francisco,314.65,Grocery,PayPal,3
+CUST_0298,32,Female,New York,398.35,Books,PayPal,1
+CUST_0299,40,Female,San Francisco,156.38,Electronics,PayPal,3
+CUST_0300,56,Male,San Francisco,129.2,Grocery,Debit Card,4
+CUST_0301,29,Female,Los Angeles,212.97,Home Decor,Credit Card,3
+CUST_0302,46,Female,San Francisco,75.76,Books,Cash,5
+CUST_0303,58,Male,Houston,152.14,Home Decor,Credit Card,1
+CUST_0304,36,Male,New York,248.64,Electronics,Debit Card,1
+CUST_0305,66,Female,Houston,58.56,Books,Debit Card,1
+CUST_0306,31,Female,Houston,90.02,Sports,Credit Card,5
+CUST_0307,66,Female,Houston,61.21,Grocery,Google Pay,1
+CUST_0308,48,Female,San Francisco,220.57,Clothing,PayPal,4
+CUST_0309,34,Male,Houston,478.6,Electronics,Google Pay,2
+CUST_0310,62,Female,Los Angeles,406.17,Books,Google Pay,5
+CUST_0311,37,Female,Houston,415.66,Grocery,Google Pay,2
+CUST_0312,31,Male,San Francisco,88.63,Home Decor,Cash,4
+CUST_0313,47,Male,San Francisco,209.25,Electronics,Debit Card,3
+CUST_0314,21,Male,San Francisco,128.33,Sports,Google Pay,3
+CUST_0315,43,Female,San Francisco,70.31,Home Decor,Cash,2
+CUST_0316,19,Male,Houston,473.32,Grocery,Google Pay,1
+CUST_0317,61,Female,New York,445.67,Sports,PayPal,1
+CUST_0318,40,Female,Los Angeles,137.39,Books,Google Pay,2
+CUST_0319,30,Female,New York,340.04,Grocery,PayPal,3
+CUST_0320,69,Male,San Francisco,189.81,Home Decor,Debit Card,5
+CUST_0321,50,Male,Los Angeles,199.28,Sports,Debit Card,4
+CUST_0322,19,Male,New York,300.88,Electronics,Google Pay,2
+CUST_0323,39,Female,Los Angeles,457.63,Electronics,Cash,3
+CUST_0324,63,Female,Chicago,441.84,Grocery,PayPal,2
+CUST_0325,54,Female,New York,360.78,Sports,Google Pay,4
+CUST_0326,64,Male,San Francisco,436.13,Sports,Credit Card,3
+CUST_0327,43,Female,Chicago,96.25,Clothing,Google Pay,4
+CUST_0328,38,Male,San Francisco,215.85,Home Decor,Google Pay,4
+CUST_0329,54,Female,Houston,311.58,Clothing,Google Pay,3
+CUST_0330,57,Female,New York,441.39,Books,Credit Card,1
+CUST_0331,67,Male,Houston,369.78,Clothing,Credit Card,1
+CUST_0332,45,Female,San Francisco,66.23,Home Decor,Debit Card,3
+CUST_0333,59,Male,San Francisco,393.48,Home Decor,Google Pay,2
+CUST_0334,52,Male,Los Angeles,385.52,Grocery,Credit Card,4
+CUST_0335,35,Male,New York,254.49,Electronics,Cash,3
+CUST_0336,66,Male,New York,157.5,Home Decor,PayPal,3
+CUST_0337,23,Male,San Francisco,53.97,Home Decor,Credit Card,1
+CUST_0338,48,Female,Houston,385.86,Clothing,Cash,1
+CUST_0339,31,Male,Los Angeles,236.65,Electronics,PayPal,5
+CUST_0340,62,Female,Chicago,362.46,Grocery,Cash,5
+CUST_0341,23,Female,Los Angeles,458.35,Home Decor,Google Pay,1
+CUST_0342,54,Female,New York,26.94,Clothing,PayPal,3
+CUST_0343,28,Male,Los Angeles,324.05,Sports,Debit Card,2
+CUST_0344,20,Female,New York,391.42,Electronics,Debit Card,2
+CUST_0345,46,Female,Los Angeles,241.23,Sports,Credit Card,5
+CUST_0346,63,Female,Houston,125.51,Electronics,Google Pay,3
+CUST_0347,24,Male,New York,324.66,Grocery,Debit Card,1
+CUST_0348,40,Female,Los Angeles,408.68,Home Decor,Google Pay,1
+CUST_0349,31,Male,Chicago,332.86,Sports,PayPal,1
+CUST_0350,43,Male,Los Angeles,221.59,Electronics,PayPal,5
+CUST_0351,35,Female,San Francisco,299.4,Books,PayPal,4
+CUST_0352,36,Female,Houston,370.34,Grocery,Debit Card,1
+CUST_0353,63,Female,New York,259.72,Home Decor,Credit Card,1
+CUST_0354,52,Female,New York,142.26,Clothing,PayPal,3
+CUST_0355,23,Male,Chicago,287.16,Books,Google Pay,1
+CUST_0356,56,Female,Los Angeles,183.52,Electronics,Credit Card,5
+CUST_0357,56,Female,New York,245.63,Clothing,Cash,4
+CUST_0358,56,Male,Los Angeles,483.48,Home Decor,PayPal,3
+CUST_0359,40,Male,Chicago,337.98,Electronics,Cash,5
+CUST_0360,47,Female,Chicago,76.63,Sports,Google Pay,2
+CUST_0361,54,Male,Houston,46.55,Electronics,Credit Card,4
+CUST_0362,62,Female,Houston,24.14,Clothing,Google Pay,2
+CUST_0363,48,Female,Chicago,280.67,Home Decor,PayPal,1
+CUST_0364,68,Female,Houston,447.28,Grocery,Credit Card,4
+CUST_0365,19,Female,San Francisco,210.52,Home Decor,PayPal,4
+CUST_0366,36,Male,Chicago,416.55,Books,Cash,2
+CUST_0367,51,Male,Chicago,215.43,Books,PayPal,2
+CUST_0368,58,Female,San Francisco,389.46,Home Decor,Debit Card,1
+CUST_0369,20,Male,Los Angeles,323.1,Clothing,Debit Card,4
+CUST_0370,28,Female,Houston,401.47,Home Decor,Cash,5
+CUST_0371,67,Female,Houston,102.62,Books,Debit Card,1
+CUST_0372,63,Female,Chicago,12.82,Books,Credit Card,1
+CUST_0373,48,Male,San Francisco,479.58,Books,Google Pay,2
+CUST_0374,41,Female,Chicago,325.93,Home Decor,Credit Card,3
+CUST_0375,64,Male,New York,7.38,Books,Debit Card,3
+CUST_0376,35,Male,San Francisco,404.85,Clothing,Credit Card,3
+CUST_0377,28,Male,Los Angeles,292.62,Grocery,PayPal,2
+CUST_0378,51,Male,Chicago,255.12,Books,Cash,5
+CUST_0379,69,Female,Los Angeles,324.78,Clothing,Debit Card,4
+CUST_0380,64,Male,San Francisco,247.4,Clothing,PayPal,1
+CUST_0381,25,Female,Chicago,5.4,Home Decor,Debit Card,3
+CUST_0382,55,Female,Houston,170.32,Grocery,Google Pay,1
+CUST_0383,53,Male,Houston,114.93,Books,PayPal,2
+CUST_0384,65,Female,San Francisco,374.75,Sports,PayPal,5
+CUST_0385,48,Female,New York,444.54,Electronics,Google Pay,5
+CUST_0386,41,Male,New York,64.04,Clothing,PayPal,5
+CUST_0387,43,Male,Chicago,156.88,Clothing,Cash,3
+CUST_0388,36,Female,Los Angeles,245.28,Books,Google Pay,4
+CUST_0389,57,Female,New York,291.09,Clothing,PayPal,2
+CUST_0390,69,Male,San Francisco,55.33,Sports,Debit Card,5
+CUST_0391,47,Male,New York,383.68,Clothing,Debit Card,4
+CUST_0392,28,Female,San Francisco,141.21,Sports,Google Pay,1
+CUST_0393,68,Female,New York,297.37,Clothing,Cash,2
+CUST_0394,59,Female,Los Angeles,307.35,Electronics,Cash,1
+CUST_0395,46,Female,Houston,135.17,Electronics,PayPal,2
+CUST_0396,20,Female,Houston,113.73,Clothing,Debit Card,3
+CUST_0397,27,Male,Chicago,339.14,Clothing,Cash,5
+CUST_0398,19,Male,New York,460.24,Sports,Credit Card,5
+CUST_0399,57,Female,Los Angeles,281.13,Electronics,Google Pay,4
+CUST_0400,37,Female,Chicago,386.82,Grocery,Cash,3
+CUST_0401,29,Male,Los Angeles,30.11,Books,PayPal,1
+CUST_0402,69,Female,Los Angeles,374.74,Electronics,Credit Card,3
+CUST_0403,62,Male,Los Angeles,202.94,Books,Credit Card,4
+CUST_0404,24,Male,San Francisco,166.98,Clothing,Cash,2
+CUST_0405,38,Female,Chicago,49.38,Grocery,Google Pay,4
+CUST_0406,29,Male,Chicago,119.94,Sports,PayPal,3
+CUST_0407,18,Female,New York,202.42,Books,Cash,5
+CUST_0408,33,Female,Houston,26.94,Clothing,PayPal,2
+CUST_0409,67,Female,Los Angeles,348.15,Home Decor,Google Pay,4
+CUST_0410,27,Male,Chicago,319.77,Grocery,Google Pay,5
+CUST_0411,33,Male,Houston,87.71,Electronics,Google Pay,4
+CUST_0412,50,Female,Los Angeles,187.31,Books,PayPal,2
+CUST_0413,41,Male,Los Angeles,225.77,Electronics,Debit Card,1
+CUST_0414,50,Female,San Francisco,356.38,Electronics,Debit Card,1
+CUST_0415,64,Male,Chicago,466.78,Sports,Debit Card,4
+CUST_0416,55,Female,New York,44.49,Sports,Debit Card,4
+CUST_0417,18,Male,New York,114.87,Books,PayPal,1
+CUST_0418,47,Male,Los Angeles,121.29,Sports,Credit Card,2
+CUST_0419,69,Male,Chicago,48.15,Grocery,Credit Card,2
+CUST_0420,25,Female,Houston,207.19,Electronics,Google Pay,1
+CUST_0421,54,Female,Los Angeles,357.58,Home Decor,Google Pay,5
+CUST_0422,55,Male,Los Angeles,108.06,Sports,Google Pay,2
+CUST_0423,36,Male,San Francisco,288.72,Electronics,Google Pay,2
+CUST_0424,34,Female,Los Angeles,342.24,Books,Cash,2
+CUST_0425,18,Female,Houston,346.67,Grocery,PayPal,2
+CUST_0426,47,Male,Chicago,281.82,Clothing,Cash,3
+CUST_0427,21,Female,New York,487.1,Clothing,Debit Card,3
+CUST_0428,38,Female,Chicago,412.98,Home Decor,Cash,5
+CUST_0429,69,Male,Houston,64.71,Sports,PayPal,2
+CUST_0430,43,Male,Chicago,79.86,Electronics,Debit Card,3
+CUST_0431,49,Female,Los Angeles,63.32,Sports,Google Pay,4
+CUST_0432,64,Male,Los Angeles,205.45,Grocery,PayPal,5
+CUST_0433,44,Female,San Francisco,223.91,Home Decor,PayPal,3
+CUST_0434,49,Male,San Francisco,21.53,Grocery,Cash,5
+CUST_0435,33,Female,New York,339.99,Electronics,Debit Card,5
+CUST_0436,54,Male,Los Angeles,197.08,Home Decor,Credit Card,3
+CUST_0437,38,Male,Los Angeles,67.2,Sports,Credit Card,1
+CUST_0438,55,Female,New York,142.84,Books,Google Pay,5
+CUST_0439,66,Female,Los Angeles,314.28,Clothing,Cash,3
+CUST_0440,49,Female,Houston,134.53,Electronics,Credit Card,4
+CUST_0441,27,Female,Los Angeles,248.09,Sports,Cash,2
+CUST_0442,64,Male,Los Angeles,452.12,Grocery,Cash,1
+CUST_0443,35,Male,Los Angeles,442.48,Home Decor,Credit Card,1
+CUST_0444,68,Female,Chicago,203.87,Clothing,Cash,4
+CUST_0445,23,Male,New York,133.79,Sports,Cash,5
+CUST_0446,35,Male,Houston,382.62,Sports,Debit Card,1
+CUST_0447,62,Male,Chicago,99.31,Books,Cash,3
+CUST_0448,59,Male,Chicago,370.71,Home Decor,Google Pay,4
+CUST_0449,38,Male,Los Angeles,290.82,Books,Debit Card,4
+CUST_0450,23,Female,San Francisco,440.96,Grocery,Cash,1
+CUST_0451,68,Male,Los Angeles,378.65,Grocery,Cash,3
+CUST_0452,57,Female,Houston,143.71,Clothing,Google Pay,2
+CUST_0453,54,Female,Chicago,325.33,Sports,Credit Card,3
+CUST_0454,59,Male,New York,336.99,Electronics,Cash,4
+CUST_0455,40,Male,Houston,371.19,Grocery,Debit Card,5
+CUST_0456,45,Female,New York,433.19,Books,Google Pay,5
+CUST_0457,25,Male,Los Angeles,368.54,Grocery,Google Pay,4
+CUST_0458,61,Female,New York,382.78,Electronics,Credit Card,4
+CUST_0459,42,Female,San Francisco,200.81,Home Decor,Credit Card,5
+CUST_0460,19,Female,Houston,448.07,Grocery,PayPal,3
+CUST_0461,45,Male,New York,224.48,Grocery,Cash,5
+CUST_0462,65,Male,New York,65.44,Grocery,Cash,3
+CUST_0463,23,Male,Houston,253.85,Home Decor,Cash,5
+CUST_0464,59,Male,San Francisco,206.48,Home Decor,PayPal,2
+CUST_0465,20,Female,Los Angeles,458.64,Home Decor,PayPal,4
+CUST_0466,58,Female,New York,295.54,Sports,Google Pay,1
+CUST_0467,64,Female,Houston,457.55,Home Decor,Google Pay,5
+CUST_0468,40,Male,Los Angeles,27.42,Sports,Cash,1
+CUST_0469,42,Male,New York,417.59,Electronics,Credit Card,3
+CUST_0470,66,Male,Houston,137.21,Electronics,Google Pay,5
+CUST_0471,69,Female,San Francisco,317.37,Home Decor,Credit Card,3
+CUST_0472,56,Female,San Francisco,173.99,Clothing,Credit Card,1
+CUST_0473,36,Female,San Francisco,55.62,Sports,PayPal,5
+CUST_0474,46,Female,Houston,199.99,Books,Credit Card,2
+CUST_0475,62,Female,San Francisco,428.83,Grocery,Debit Card,4
+CUST_0476,26,Female,San Francisco,18.97,Electronics,Credit Card,3
+CUST_0477,64,Female,San Francisco,426.08,Home Decor,Google Pay,4
+CUST_0478,42,Male,Los Angeles,499.93,Grocery,PayPal,4
+CUST_0479,50,Female,Houston,483.28,Electronics,Credit Card,1
+CUST_0480,57,Male,New York,157.11,Clothing,PayPal,1
+CUST_0481,56,Male,Chicago,88.47,Electronics,Debit Card,2
+CUST_0482,22,Male,San Francisco,192.9,Books,Cash,4
+CUST_0483,20,Male,Los Angeles,254.33,Grocery,PayPal,2
+CUST_0484,40,Female,Los Angeles,469.77,Books,Google Pay,4
+CUST_0485,34,Male,Los Angeles,299.68,Books,Credit Card,3
+CUST_0486,56,Female,New York,182.31,Clothing,Cash,3
+CUST_0487,69,Male,Chicago,179.72,Grocery,Google Pay,3
+CUST_0488,35,Male,San Francisco,14.13,Clothing,Cash,3
+CUST_0489,65,Male,Los Angeles,266.93,Electronics,Cash,1
+CUST_0490,26,Male,Chicago,363.92,Books,Cash,2
+CUST_0491,21,Male,San Francisco,265.08,Clothing,PayPal,2
+CUST_0492,22,Male,San Francisco,360.81,Clothing,Google Pay,2
+CUST_0493,26,Male,New York,236.59,Clothing,Cash,3
+CUST_0494,69,Female,Los Angeles,250.07,Clothing,Google Pay,4
+CUST_0495,40,Male,San Francisco,209.55,Home Decor,Google Pay,1
+CUST_0496,49,Male,Chicago,426.27,Electronics,Cash,2
+CUST_0497,57,Male,New York,114.6,Electronics,Google Pay,5
+CUST_0498,60,Male,Houston,427.7,Home Decor,PayPal,3
+CUST_0499,49,Female,Los Angeles,21.6,Clothing,Cash,5
+CUST_0500,35,Male,Chicago,112.23,Clothing,Google Pay,3
+CUST_0501,22,Female,Houston,420.1,Electronics,Cash,1
+CUST_0502,55,Male,New York,231.9,Books,Credit Card,5
+CUST_0503,53,Female,New York,178.22,Home Decor,Cash,4
+CUST_0504,58,Female,Los Angeles,19.64,Sports,Cash,2
+CUST_0505,50,Male,Chicago,324.0,Home Decor,Credit Card,2
+CUST_0506,20,Male,Houston,61.93,Sports,Google Pay,5
+CUST_0507,40,Female,Los Angeles,120.27,Electronics,Debit Card,2
+CUST_0508,56,Male,Chicago,192.39,Sports,Credit Card,3
+CUST_0509,67,Male,Los Angeles,28.43,Sports,Debit Card,2
+CUST_0510,35,Male,San Francisco,332.87,Electronics,Credit Card,5
+CUST_0511,47,Female,New York,71.01,Home Decor,Cash,1
+CUST_0512,18,Male,Houston,399.88,Home Decor,PayPal,4
+CUST_0513,43,Female,San Francisco,426.73,Grocery,Cash,2
+CUST_0514,68,Male,Los Angeles,124.02,Clothing,PayPal,3
+CUST_0515,30,Male,Houston,129.43,Sports,Cash,3
+CUST_0516,19,Female,Los Angeles,38.72,Sports,PayPal,3
+CUST_0517,62,Male,San Francisco,479.79,Clothing,PayPal,4
+CUST_0518,41,Male,Houston,232.47,Books,Credit Card,1
+CUST_0519,19,Male,Chicago,475.2,Grocery,Cash,3
+CUST_0520,21,Female,New York,90.6,Sports,Google Pay,1
+CUST_0521,41,Female,Los Angeles,172.12,Books,PayPal,2
+CUST_0522,28,Male,Los Angeles,359.62,Clothing,Google Pay,2
+CUST_0523,21,Female,Los Angeles,52.77,Clothing,PayPal,5
+CUST_0524,28,Female,New York,116.47,Home Decor,Cash,3
+CUST_0525,56,Female,San Francisco,128.74,Clothing,PayPal,3
+CUST_0526,21,Male,Los Angeles,393.0,Grocery,Debit Card,4
+CUST_0527,55,Female,Los Angeles,480.34,Sports,Cash,3
+CUST_0528,68,Female,San Francisco,319.01,Home Decor,Cash,3
+CUST_0529,50,Female,New York,359.01,Home Decor,PayPal,2
+CUST_0530,25,Female,New York,383.35,Clothing,Google Pay,5
+CUST_0531,25,Female,Houston,260.95,Grocery,Google Pay,3
+CUST_0532,37,Male,Chicago,25.69,Grocery,Cash,4
+CUST_0533,22,Male,San Francisco,30.09,Home Decor,Credit Card,2
+CUST_0534,64,Female,Los Angeles,317.83,Home Decor,Debit Card,4
+CUST_0535,24,Male,San Francisco,151.18,Grocery,PayPal,1
+CUST_0536,28,Male,Houston,233.88,Home Decor,PayPal,5
+CUST_0537,56,Male,San Francisco,184.51,Electronics,Google Pay,3
+CUST_0538,22,Male,New York,21.26,Sports,Debit Card,4
+CUST_0539,42,Female,Houston,335.43,Electronics,Google Pay,2
+CUST_0540,49,Male,Chicago,119.68,Home Decor,Google Pay,4
+CUST_0541,31,Female,New York,234.65,Grocery,Debit Card,2
+CUST_0542,45,Female,Los Angeles,364.23,Clothing,PayPal,4
+CUST_0543,55,Female,Houston,394.77,Grocery,PayPal,2
+CUST_0544,57,Female,San Francisco,289.0,Sports,Google Pay,1
+CUST_0545,36,Male,Los Angeles,170.91,Books,Credit Card,4
+CUST_0546,64,Female,Houston,458.57,Home Decor,Cash,5
+CUST_0547,48,Female,San Francisco,347.91,Books,Google Pay,1
+CUST_0548,60,Female,Houston,146.5,Books,Debit Card,2
+CUST_0549,55,Female,Houston,140.9,Home Decor,Cash,4
+CUST_0550,34,Female,San Francisco,198.29,Clothing,Cash,1
+CUST_0551,59,Female,New York,366.33,Electronics,Credit Card,5
+CUST_0552,18,Male,Houston,454.28,Home Decor,Google Pay,3
+CUST_0553,46,Male,San Francisco,49.87,Home Decor,Credit Card,1
+CUST_0554,37,Male,Los Angeles,111.8,Books,Credit Card,5
+CUST_0555,25,Male,Los Angeles,438.95,Clothing,Cash,1
+CUST_0556,18,Female,New York,313.54,Books,Credit Card,2
+CUST_0557,38,Female,New York,428.84,Clothing,Credit Card,2
+CUST_0558,65,Male,Houston,216.79,Books,Cash,3
+CUST_0559,19,Male,New York,51.99,Sports,Cash,1
+CUST_0560,35,Male,New York,317.09,Grocery,Google Pay,3
+CUST_0561,55,Female,Houston,170.99,Electronics,Google Pay,5
+CUST_0562,66,Male,San Francisco,9.41,Grocery,PayPal,4
+CUST_0563,59,Male,San Francisco,85.74,Books,PayPal,4
+CUST_0564,21,Male,Los Angeles,371.29,Grocery,Debit Card,3
+CUST_0565,18,Female,Houston,162.82,Books,Google Pay,2
+CUST_0566,23,Male,Los Angeles,356.92,Home Decor,Cash,1
+CUST_0567,34,Male,Houston,472.24,Clothing,Credit Card,4
+CUST_0568,67,Female,Chicago,335.61,Home Decor,Cash,2
+CUST_0569,65,Female,San Francisco,77.33,Grocery,PayPal,3
+CUST_0570,20,Male,Chicago,439.26,Home Decor,Debit Card,2
+CUST_0571,58,Male,San Francisco,46.39,Sports,PayPal,4
+CUST_0572,65,Female,New York,338.75,Electronics,Credit Card,2
+CUST_0573,23,Male,Chicago,169.93,Books,Google Pay,5
+CUST_0574,32,Male,New York,324.68,Electronics,Google Pay,1
+CUST_0575,45,Female,Los Angeles,443.53,Clothing,Cash,1
+CUST_0576,53,Male,San Francisco,217.71,Books,Credit Card,3
+CUST_0577,52,Female,Houston,321.5,Electronics,Google Pay,2
+CUST_0578,23,Female,New York,397.64,Books,Google Pay,3
+CUST_0579,19,Female,Chicago,91.59,Clothing,Cash,1
+CUST_0580,51,Male,Chicago,265.94,Home Decor,PayPal,5
+CUST_0581,50,Male,Chicago,41.49,Electronics,Google Pay,4
+CUST_0582,68,Female,Los Angeles,133.42,Electronics,Debit Card,1
+CUST_0583,41,Male,Chicago,18.41,Books,Debit Card,2
+CUST_0584,37,Male,Los Angeles,339.41,Electronics,Google Pay,1
+CUST_0585,46,Male,Los Angeles,454.43,Grocery,PayPal,4
+CUST_0586,51,Female,Chicago,97.33,Grocery,Credit Card,2
+CUST_0587,64,Female,Los Angeles,112.06,Sports,PayPal,2
+CUST_0588,37,Male,Houston,258.3,Home Decor,Cash,1
+CUST_0589,48,Male,New York,126.75,Books,Cash,3
+CUST_0590,47,Female,Chicago,395.85,Clothing,Debit Card,5
+CUST_0591,64,Male,Chicago,317.95,Sports,PayPal,4
+CUST_0592,45,Female,Houston,493.04,Grocery,PayPal,3
+CUST_0593,23,Female,New York,471.34,Home Decor,Credit Card,4
+CUST_0594,33,Male,San Francisco,39.44,Electronics,Debit Card,4
+CUST_0595,20,Male,Houston,447.81,Books,Cash,1
+CUST_0596,27,Female,Los Angeles,278.45,Home Decor,PayPal,2
+CUST_0597,48,Male,New York,150.24,Electronics,Google Pay,5
+CUST_0598,33,Female,Los Angeles,124.8,Books,PayPal,5
+CUST_0599,48,Female,New York,224.67,Clothing,Credit Card,3
+CUST_0600,34,Male,San Francisco,387.33,Books,PayPal,2
+CUST_0601,25,Female,Houston,259.27,Clothing,PayPal,2
+CUST_0602,50,Male,Chicago,485.18,Sports,Credit Card,5
+CUST_0603,37,Male,Chicago,71.95,Sports,Credit Card,3
+CUST_0604,39,Female,Los Angeles,433.99,Electronics,Google Pay,1
+CUST_0605,60,Female,Chicago,219.95,Electronics,Google Pay,3
+CUST_0606,30,Male,Chicago,136.93,Home Decor,Credit Card,5
+CUST_0607,19,Female,New York,40.57,Electronics,Debit Card,5
+CUST_0608,45,Male,Houston,365.71,Books,Credit Card,4
+CUST_0609,40,Female,Chicago,306.68,Books,Google Pay,1
+CUST_0610,18,Male,Chicago,266.94,Clothing,Credit Card,1
+CUST_0611,29,Male,San Francisco,421.54,Home Decor,Google Pay,2
+CUST_0612,54,Female,Los Angeles,134.31,Electronics,PayPal,2
+CUST_0613,29,Female,New York,22.85,Clothing,PayPal,4
+CUST_0614,57,Female,New York,214.56,Sports,Google Pay,1
+CUST_0615,56,Male,San Francisco,356.82,Sports,PayPal,1
+CUST_0616,48,Female,San Francisco,419.07,Electronics,Debit Card,4
+CUST_0617,67,Female,San Francisco,79.39,Home Decor,Credit Card,4
+CUST_0618,59,Female,Los Angeles,167.09,Clothing,Google Pay,1
+CUST_0619,22,Female,New York,354.87,Books,PayPal,4
+CUST_0620,55,Female,New York,199.99,Sports,Debit Card,4
+CUST_0621,53,Male,Chicago,9.3,Grocery,Debit Card,5
+CUST_0622,37,Male,San Francisco,171.3,Grocery,Cash,5
+CUST_0623,28,Female,Houston,267.89,Home Decor,Google Pay,3
+CUST_0624,56,Female,Chicago,88.35,Clothing,PayPal,3
+CUST_0625,47,Female,San Francisco,97.72,Sports,Cash,4
+CUST_0626,33,Female,San Francisco,408.77,Sports,Google Pay,1
+CUST_0627,53,Female,Chicago,132.15,Clothing,Debit Card,2
+CUST_0628,49,Female,Chicago,89.17,Sports,PayPal,2
+CUST_0629,18,Male,Los Angeles,395.9,Home Decor,Debit Card,5
+CUST_0630,68,Female,San Francisco,405.92,Clothing,PayPal,3
+CUST_0631,25,Female,Chicago,326.97,Home Decor,PayPal,2
+CUST_0632,44,Female,San Francisco,290.08,Books,Google Pay,4
+CUST_0633,64,Male,San Francisco,18.2,Clothing,PayPal,3
+CUST_0634,51,Female,Los Angeles,195.72,Books,PayPal,4
+CUST_0635,29,Female,Los Angeles,427.44,Sports,Cash,5
+CUST_0636,18,Female,New York,84.93,Grocery,Cash,2
+CUST_0637,18,Male,New York,451.51,Home Decor,Credit Card,1
+CUST_0638,24,Female,Los Angeles,242.09,Clothing,Credit Card,5
+CUST_0639,33,Female,New York,92.03,Clothing,Credit Card,3
+CUST_0640,44,Male,New York,316.48,Electronics,Credit Card,2
+CUST_0641,55,Male,Los Angeles,208.25,Books,Google Pay,1
+CUST_0642,38,Male,Los Angeles,446.4,Books,Google Pay,3
+CUST_0643,45,Female,San Francisco,136.41,Grocery,Debit Card,3
+CUST_0644,62,Male,Chicago,357.4,Clothing,Credit Card,3
+CUST_0645,64,Male,San Francisco,120.07,Grocery,PayPal,3
+CUST_0646,45,Male,New York,370.96,Grocery,PayPal,3
+CUST_0647,43,Male,Los Angeles,279.51,Electronics,Cash,1
+CUST_0648,40,Male,Chicago,127.12,Books,Credit Card,3
+CUST_0649,40,Male,Los Angeles,118.79,Books,Debit Card,4
+CUST_0650,41,Female,Houston,195.81,Sports,Google Pay,1
+CUST_0651,55,Female,Houston,44.16,Sports,Credit Card,1
+CUST_0652,25,Female,Chicago,190.26,Clothing,PayPal,4
+CUST_0653,68,Female,Houston,58.53,Electronics,Credit Card,5
+CUST_0654,41,Female,New York,209.87,Home Decor,PayPal,2
+CUST_0655,24,Female,Los Angeles,279.81,Grocery,Google Pay,1
+CUST_0656,39,Male,Houston,238.21,Books,Cash,1
+CUST_0657,51,Female,Houston,178.24,Sports,Cash,2
+CUST_0658,36,Male,Los Angeles,187.28,Books,Google Pay,1
+CUST_0659,39,Male,San Francisco,300.19,Books,PayPal,5
+CUST_0660,55,Male,Houston,413.32,Books,Cash,1
+CUST_0661,51,Female,New York,422.23,Sports,Cash,4
+CUST_0662,20,Female,San Francisco,313.78,Electronics,PayPal,5
+CUST_0663,32,Male,Chicago,62.22,Sports,Debit Card,2
+CUST_0664,31,Female,Los Angeles,54.68,Electronics,Credit Card,4
+CUST_0665,37,Male,New York,364.07,Clothing,Google Pay,3
+CUST_0666,52,Male,Los Angeles,488.15,Books,Cash,3
+CUST_0667,32,Male,Los Angeles,432.2,Books,Cash,3
+CUST_0668,69,Female,New York,492.44,Grocery,Debit Card,1
+CUST_0669,21,Male,Houston,127.43,Grocery,Cash,4
+CUST_0670,57,Male,New York,225.18,Electronics,Google Pay,2
+CUST_0671,21,Female,New York,212.33,Sports,Debit Card,3
+CUST_0672,33,Female,Houston,451.48,Home Decor,PayPal,1
+CUST_0673,49,Male,Chicago,128.68,Clothing,Google Pay,1
+CUST_0674,49,Male,Houston,417.24,Home Decor,Cash,1
+CUST_0675,20,Female,New York,279.03,Home Decor,Debit Card,4
+CUST_0676,29,Male,San Francisco,417.85,Sports,Google Pay,5
+CUST_0677,20,Male,Chicago,64.89,Clothing,Cash,3
+CUST_0678,24,Male,New York,97.73,Grocery,Credit Card,4
+CUST_0679,28,Male,Chicago,495.59,Home Decor,Debit Card,1
+CUST_0680,24,Female,San Francisco,298.84,Grocery,Debit Card,5
+CUST_0681,55,Male,New York,93.49,Electronics,Cash,4
+CUST_0682,20,Male,Houston,32.35,Electronics,Credit Card,1
+CUST_0683,46,Female,Houston,297.83,Electronics,Cash,1
+CUST_0684,56,Female,Houston,127.63,Books,Google Pay,4
+CUST_0685,28,Male,Chicago,59.87,Electronics,Credit Card,2
+CUST_0686,31,Male,New York,17.03,Books,Credit Card,2
+CUST_0687,34,Male,Houston,416.71,Grocery,Debit Card,4
+CUST_0688,30,Female,New York,42.9,Clothing,Cash,5
+CUST_0689,42,Female,Los Angeles,254.5,Clothing,Credit Card,4
+CUST_0690,69,Male,Los Angeles,16.36,Electronics,PayPal,2
+CUST_0691,51,Female,San Francisco,439.09,Home Decor,Credit Card,5
+CUST_0692,67,Male,Los Angeles,358.63,Clothing,Cash,1
+CUST_0693,31,Male,Chicago,24.84,Electronics,PayPal,4
+CUST_0694,29,Female,Chicago,152.65,Books,Debit Card,1
+CUST_0695,50,Male,San Francisco,229.58,Electronics,Google Pay,5
+CUST_0696,55,Male,Chicago,19.73,Books,Cash,4
+CUST_0697,26,Female,Houston,263.79,Home Decor,PayPal,3
+CUST_0698,26,Male,New York,31.22,Home Decor,Debit Card,3
+CUST_0699,33,Female,San Francisco,91.98,Home Decor,Debit Card,4
+CUST_0700,64,Female,Chicago,168.12,Books,PayPal,5
+CUST_0701,18,Female,Los Angeles,494.59,Electronics,Debit Card,1
+CUST_0702,31,Male,Chicago,428.49,Grocery,Cash,5
+CUST_0703,26,Female,Houston,407.76,Grocery,Google Pay,3
+CUST_0704,18,Female,New York,247.71,Clothing,PayPal,4
+CUST_0705,34,Female,New York,22.5,Books,PayPal,1
+CUST_0706,20,Male,Houston,474.15,Grocery,Google Pay,3
+CUST_0707,49,Female,San Francisco,208.94,Electronics,Google Pay,5
+CUST_0708,52,Male,Los Angeles,217.81,Sports,Debit Card,2
+CUST_0709,21,Male,San Francisco,87.8,Grocery,Credit Card,4
+CUST_0710,56,Female,New York,59.89,Home Decor,Debit Card,3
+CUST_0711,42,Male,Houston,234.07,Grocery,Debit Card,4
+CUST_0712,32,Male,Los Angeles,360.82,Grocery,Google Pay,2
+CUST_0713,55,Male,San Francisco,221.06,Home Decor,PayPal,2
+CUST_0714,43,Male,Chicago,297.36,Sports,PayPal,3
+CUST_0715,36,Male,San Francisco,399.48,Sports,Cash,1
+CUST_0716,63,Female,Los Angeles,427.88,Books,Credit Card,2
+CUST_0717,49,Male,New York,167.63,Home Decor,PayPal,4
+CUST_0718,23,Female,San Francisco,155.85,Sports,PayPal,5
+CUST_0719,21,Female,Chicago,86.99,Books,Credit Card,3
+CUST_0720,52,Male,Los Angeles,187.63,Books,Credit Card,1
+CUST_0721,59,Female,San Francisco,67.61,Home Decor,Cash,3
+CUST_0722,18,Female,San Francisco,116.75,Electronics,Cash,1
+CUST_0723,19,Female,New York,57.46,Electronics,Debit Card,4
+CUST_0724,50,Male,Houston,101.8,Books,PayPal,5
+CUST_0725,34,Male,Chicago,318.03,Clothing,Google Pay,4
+CUST_0726,68,Female,Chicago,248.9,Electronics,Credit Card,3
+CUST_0727,47,Male,Los Angeles,353.12,Home Decor,PayPal,3
+CUST_0728,55,Male,Los Angeles,114.45,Sports,Cash,1
+CUST_0729,43,Male,Chicago,491.19,Home Decor,PayPal,5
+CUST_0730,42,Male,San Francisco,377.7,Books,Google Pay,3
+CUST_0731,64,Female,Chicago,419.91,Grocery,Debit Card,3
+CUST_0732,54,Male,New York,297.45,Clothing,Google Pay,1
+CUST_0733,42,Female,Chicago,273.49,Electronics,Google Pay,2
+CUST_0734,33,Female,Chicago,481.24,Clothing,Credit Card,4
+CUST_0735,22,Male,New York,499.01,Clothing,Credit Card,1
+CUST_0736,23,Male,Los Angeles,248.11,Electronics,Cash,3
+CUST_0737,53,Male,New York,180.49,Electronics,PayPal,1
+CUST_0738,30,Female,Chicago,416.43,Grocery,PayPal,1
+CUST_0739,25,Female,Houston,356.92,Books,Google Pay,2
+CUST_0740,68,Female,Chicago,314.9,Home Decor,PayPal,4
+CUST_0741,20,Female,Los Angeles,56.14,Electronics,PayPal,1
+CUST_0742,18,Female,San Francisco,440.66,Clothing,Debit Card,5
+CUST_0743,32,Female,Chicago,439.14,Clothing,Google Pay,2
+CUST_0744,57,Male,Los Angeles,232.41,Electronics,Google Pay,2
+CUST_0745,54,Male,San Francisco,185.24,Books,PayPal,5
+CUST_0746,35,Female,New York,43.4,Sports,Debit Card,1
+CUST_0747,62,Female,Houston,128.65,Clothing,Google Pay,5
+CUST_0748,52,Female,San Francisco,187.29,Grocery,Google Pay,1
+CUST_0749,44,Male,New York,143.16,Sports,Debit Card,5
+CUST_0750,55,Male,Houston,314.96,Grocery,Debit Card,5
+CUST_0751,36,Female,Chicago,226.3,Sports,Cash,5
+CUST_0752,61,Female,San Francisco,469.66,Electronics,Google Pay,5
+CUST_0753,40,Male,San Francisco,207.33,Books,Credit Card,5
+CUST_0754,21,Female,Los Angeles,358.27,Books,PayPal,5
+CUST_0755,41,Female,Houston,260.03,Home Decor,Credit Card,4
+CUST_0756,63,Male,Chicago,34.49,Electronics,PayPal,5
+CUST_0757,50,Female,San Francisco,278.78,Sports,Cash,1
+CUST_0758,46,Female,Chicago,447.98,Books,Debit Card,1
+CUST_0759,31,Male,Chicago,37.84,Grocery,Credit Card,3
+CUST_0760,59,Female,New York,173.61,Sports,Cash,1
+CUST_0761,25,Male,New York,280.41,Home Decor,Credit Card,4
+CUST_0762,21,Female,San Francisco,404.71,Grocery,PayPal,2
+CUST_0763,59,Female,Houston,255.9,Grocery,Credit Card,4
+CUST_0764,36,Female,Houston,9.19,Electronics,Credit Card,4
+CUST_0765,45,Female,New York,230.04,Grocery,PayPal,5
+CUST_0766,56,Female,Chicago,243.55,Electronics,Cash,5
+CUST_0767,27,Female,New York,24.76,Home Decor,Debit Card,4
+CUST_0768,69,Male,Chicago,325.16,Clothing,Cash,5
+CUST_0769,56,Female,San Francisco,84.61,Home Decor,Credit Card,2
+CUST_0770,37,Male,New York,211.81,Grocery,Debit Card,5
+CUST_0771,56,Male,San Francisco,8.42,Home Decor,PayPal,4
+CUST_0772,34,Female,Los Angeles,324.34,Grocery,Debit Card,4
+CUST_0773,63,Female,New York,307.38,Home Decor,Credit Card,2
+CUST_0774,43,Female,Chicago,152.86,Books,PayPal,4
+CUST_0775,47,Female,New York,313.78,Books,PayPal,5
+CUST_0776,27,Male,Chicago,217.3,Books,Cash,4
+CUST_0777,66,Male,San Francisco,485.78,Home Decor,Debit Card,3
+CUST_0778,44,Female,New York,318.25,Sports,Google Pay,4
+CUST_0779,19,Male,Chicago,445.73,Electronics,PayPal,1
+CUST_0780,65,Female,Chicago,262.21,Grocery,Credit Card,5
+CUST_0781,35,Female,Chicago,445.75,Sports,Debit Card,2
+CUST_0782,37,Male,Los Angeles,347.82,Books,PayPal,3
+CUST_0783,34,Male,San Francisco,347.4,Grocery,Debit Card,2
+CUST_0784,37,Female,San Francisco,120.16,Grocery,Credit Card,1
+CUST_0785,57,Female,San Francisco,407.41,Sports,Google Pay,1
+CUST_0786,54,Female,San Francisco,89.16,Books,Debit Card,1
+CUST_0787,25,Female,San Francisco,269.68,Sports,PayPal,4
+CUST_0788,61,Female,San Francisco,87.94,Clothing,Google Pay,5
+CUST_0789,68,Male,Chicago,408.55,Clothing,PayPal,4
+CUST_0790,64,Male,Chicago,499.75,Sports,Cash,2
+CUST_0791,67,Female,Chicago,177.2,Clothing,Debit Card,1
+CUST_0792,67,Female,Los Angeles,315.62,Home Decor,Debit Card,2
+CUST_0793,48,Male,Houston,310.2,Clothing,PayPal,5
+CUST_0794,64,Female,Houston,333.52,Home Decor,Credit Card,4
+CUST_0795,32,Male,New York,131.63,Sports,Google Pay,5
+CUST_0796,22,Female,San Francisco,63.49,Grocery,Cash,2
+CUST_0797,48,Male,San Francisco,242.44,Home Decor,Credit Card,1
+CUST_0798,59,Male,Los Angeles,191.57,Clothing,Google Pay,4
+CUST_0799,29,Male,Los Angeles,310.96,Books,Credit Card,2
+CUST_0800,23,Male,Houston,347.61,Grocery,Debit Card,4
+CUST_0801,23,Male,New York,427.44,Home Decor,PayPal,1
+CUST_0802,52,Female,San Francisco,216.37,Books,PayPal,5
+CUST_0803,38,Female,Chicago,113.37,Sports,Google Pay,1
+CUST_0804,19,Male,Chicago,224.24,Electronics,Debit Card,1
+CUST_0805,45,Female,Chicago,53.33,Electronics,Credit Card,1
+CUST_0806,35,Female,San Francisco,235.35,Home Decor,Debit Card,4
+CUST_0807,36,Male,Houston,306.97,Sports,Credit Card,4
+CUST_0808,24,Female,New York,249.07,Clothing,Credit Card,1
+CUST_0809,22,Female,Los Angeles,278.83,Grocery,Credit Card,2
+CUST_0810,38,Female,Houston,168.98,Grocery,Cash,4
+CUST_0811,56,Male,Chicago,278.37,Electronics,PayPal,5
+CUST_0812,55,Female,Houston,239.93,Clothing,Cash,5
+CUST_0813,63,Male,Los Angeles,128.74,Grocery,Cash,1
+CUST_0814,52,Female,New York,474.2,Clothing,Credit Card,4
+CUST_0815,53,Male,Los Angeles,488.97,Home Decor,Google Pay,2
+CUST_0816,31,Female,Houston,207.02,Grocery,PayPal,1
+CUST_0817,55,Female,Chicago,447.56,Clothing,Google Pay,5
+CUST_0818,34,Female,Los Angeles,263.48,Grocery,Google Pay,5
+CUST_0819,48,Male,San Francisco,322.64,Clothing,Google Pay,1
+CUST_0820,34,Male,New York,456.97,Home Decor,PayPal,2
+CUST_0821,51,Female,San Francisco,470.14,Clothing,Debit Card,3
+CUST_0822,61,Female,Houston,424.87,Home Decor,PayPal,3
+CUST_0823,61,Male,Los Angeles,44.36,Books,PayPal,4
+CUST_0824,34,Female,New York,136.02,Books,Credit Card,1
+CUST_0825,65,Female,Los Angeles,103.24,Home Decor,Cash,1
+CUST_0826,38,Female,New York,151.21,Clothing,Credit Card,5
+CUST_0827,32,Male,Chicago,306.26,Electronics,Google Pay,2
+CUST_0828,60,Female,Los Angeles,333.77,Grocery,Google Pay,4
+CUST_0829,60,Male,New York,39.09,Clothing,PayPal,5
+CUST_0830,37,Male,Houston,42.03,Sports,Cash,3
+CUST_0831,46,Female,Houston,242.99,Electronics,Debit Card,4
+CUST_0832,64,Female,New York,250.15,Sports,PayPal,1
+CUST_0833,65,Male,Houston,231.15,Grocery,Debit Card,4
+CUST_0834,60,Female,San Francisco,453.15,Sports,Credit Card,3
+CUST_0835,41,Female,Los Angeles,174.01,Home Decor,Google Pay,5
+CUST_0836,22,Male,Los Angeles,378.88,Clothing,Credit Card,1
+CUST_0837,62,Male,Los Angeles,316.89,Home Decor,Credit Card,2
+CUST_0838,28,Male,Houston,57.55,Sports,Google Pay,5
+CUST_0839,36,Male,Los Angeles,335.71,Books,Credit Card,5
+CUST_0840,42,Male,Los Angeles,80.82,Clothing,Cash,3
+CUST_0841,24,Female,New York,243.31,Clothing,Debit Card,5
+CUST_0842,52,Male,San Francisco,431.23,Grocery,Debit Card,4
+CUST_0843,27,Male,New York,76.9,Books,Cash,4
+CUST_0844,59,Male,Chicago,371.02,Electronics,Debit Card,3
+CUST_0845,53,Male,New York,109.07,Sports,Google Pay,4
+CUST_0846,21,Male,Los Angeles,302.86,Electronics,Debit Card,4
+CUST_0847,31,Male,Houston,114.15,Clothing,Google Pay,2
+CUST_0848,61,Male,Chicago,192.01,Home Decor,PayPal,5
+CUST_0849,64,Male,Los Angeles,40.42,Grocery,Cash,5
+CUST_0850,59,Female,Los Angeles,69.27,Books,Cash,4
+CUST_0851,43,Male,Los Angeles,225.29,Home Decor,PayPal,3
+CUST_0852,68,Male,Houston,84.29,Clothing,Debit Card,3
+CUST_0853,45,Male,Los Angeles,158.57,Home Decor,Debit Card,5
+CUST_0854,28,Female,Houston,353.06,Books,PayPal,4
+CUST_0855,36,Male,Los Angeles,462.62,Electronics,Cash,4
+CUST_0856,64,Female,New York,293.7,Clothing,Credit Card,5
+CUST_0857,60,Male,Los Angeles,236.27,Clothing,PayPal,1
+CUST_0858,58,Male,San Francisco,271.99,Grocery,Google Pay,2
+CUST_0859,45,Male,Houston,67.42,Books,Credit Card,5
+CUST_0860,64,Female,New York,342.86,Sports,Debit Card,2
+CUST_0861,23,Female,Houston,160.71,Books,Credit Card,3
+CUST_0862,31,Male,Houston,281.81,Electronics,PayPal,1
+CUST_0863,23,Female,Chicago,333.52,Home Decor,Debit Card,3
+CUST_0864,52,Male,San Francisco,238.65,Electronics,Cash,5
+CUST_0865,64,Female,Los Angeles,299.38,Clothing,Cash,3
+CUST_0866,69,Male,San Francisco,476.67,Grocery,Cash,4
+CUST_0867,47,Female,Houston,172.71,Electronics,Credit Card,1
+CUST_0868,47,Female,Houston,241.76,Clothing,PayPal,2
+CUST_0869,36,Female,San Francisco,98.25,Grocery,Debit Card,4
+CUST_0870,41,Male,Los Angeles,176.8,Home Decor,Debit Card,1
+CUST_0871,59,Male,Chicago,370.64,Home Decor,Cash,4
+CUST_0872,56,Female,Chicago,104.97,Grocery,Credit Card,1
+CUST_0873,49,Female,New York,480.83,Electronics,Debit Card,1
+CUST_0874,51,Male,San Francisco,120.77,Books,Debit Card,1
+CUST_0875,28,Female,San Francisco,204.43,Electronics,Debit Card,1
+CUST_0876,48,Male,New York,385.91,Electronics,Debit Card,1
+CUST_0877,26,Female,San Francisco,473.71,Clothing,Credit Card,1
+CUST_0878,57,Female,Houston,71.8,Electronics,Debit Card,2
+CUST_0879,33,Female,Los Angeles,211.97,Clothing,PayPal,1
+CUST_0880,58,Female,Houston,36.86,Grocery,PayPal,5
+CUST_0881,36,Female,Chicago,482.16,Electronics,PayPal,4
+CUST_0882,64,Female,San Francisco,140.17,Sports,Google Pay,2
+CUST_0883,24,Male,Los Angeles,412.28,Books,PayPal,5
+CUST_0884,23,Male,Chicago,144.33,Clothing,Google Pay,4
+CUST_0885,55,Male,New York,374.67,Home Decor,Debit Card,2
+CUST_0886,44,Female,San Francisco,295.38,Sports,Google Pay,4
+CUST_0887,49,Female,New York,493.57,Sports,Credit Card,3
+CUST_0888,68,Female,New York,374.54,Sports,PayPal,4
+CUST_0889,47,Female,Houston,446.06,Grocery,PayPal,4
+CUST_0890,25,Male,Los Angeles,448.85,Clothing,Debit Card,1
+CUST_0891,25,Male,San Francisco,360.79,Electronics,Google Pay,1
+CUST_0892,67,Female,Los Angeles,182.8,Books,Credit Card,3
+CUST_0893,39,Male,Houston,369.77,Books,Credit Card,1
+CUST_0894,20,Male,San Francisco,168.89,Home Decor,PayPal,1
+CUST_0895,25,Female,Chicago,446.81,Clothing,Google Pay,2
+CUST_0896,63,Female,San Francisco,327.99,Grocery,Debit Card,1
+CUST_0897,24,Female,Los Angeles,220.64,Electronics,Debit Card,5
+CUST_0898,61,Female,San Francisco,59.47,Home Decor,Debit Card,5
+CUST_0899,69,Female,New York,259.91,Grocery,Debit Card,4
+CUST_0900,43,Female,Chicago,402.9,Home Decor,Cash,4
+CUST_0901,33,Male,San Francisco,212.9,Clothing,Cash,5
+CUST_0902,68,Male,Chicago,497.91,Electronics,Cash,4
+CUST_0903,18,Female,Houston,98.86,Books,PayPal,2
+CUST_0904,43,Female,San Francisco,92.11,Sports,Credit Card,2
+CUST_0905,36,Female,Houston,94.27,Sports,Google Pay,1
+CUST_0906,26,Male,Houston,330.47,Sports,PayPal,4
+CUST_0907,41,Male,Chicago,372.06,Home Decor,Google Pay,1
+CUST_0908,53,Male,San Francisco,406.05,Electronics,Cash,3
+CUST_0909,38,Male,Houston,251.14,Grocery,Google Pay,5
+CUST_0910,48,Female,San Francisco,231.28,Books,Debit Card,4
+CUST_0911,46,Female,San Francisco,131.37,Home Decor,Cash,2
+CUST_0912,31,Male,San Francisco,310.86,Home Decor,Google Pay,2
+CUST_0913,44,Male,San Francisco,464.08,Home Decor,Debit Card,5
+CUST_0914,23,Female,Chicago,432.3,Books,PayPal,2
+CUST_0915,22,Female,Chicago,148.21,Sports,Credit Card,4
+CUST_0916,50,Male,Los Angeles,389.74,Sports,Credit Card,3
+CUST_0917,59,Male,San Francisco,375.64,Electronics,PayPal,2
+CUST_0918,50,Female,San Francisco,128.82,Grocery,Debit Card,2
+CUST_0919,54,Female,Chicago,44.01,Sports,Cash,5
+CUST_0920,18,Male,San Francisco,360.65,Clothing,Cash,1
+CUST_0921,44,Male,Chicago,471.31,Clothing,Cash,4
+CUST_0922,20,Male,Chicago,173.82,Sports,Debit Card,3
+CUST_0923,39,Male,Houston,204.58,Sports,Google Pay,1
+CUST_0924,26,Female,Los Angeles,256.13,Clothing,Debit Card,5
+CUST_0925,69,Male,Chicago,78.58,Home Decor,Cash,4
+CUST_0926,35,Female,New York,448.33,Clothing,Google Pay,3
+CUST_0927,33,Male,Houston,72.76,Sports,Cash,3
+CUST_0928,31,Male,San Francisco,29.83,Clothing,Credit Card,3
+CUST_0929,58,Female,Houston,450.0,Grocery,Google Pay,3
+CUST_0930,39,Female,Houston,148.81,Books,PayPal,5
+CUST_0931,63,Male,Houston,244.91,Books,Credit Card,4
+CUST_0932,45,Male,Houston,462.76,Home Decor,Google Pay,1
+CUST_0933,46,Female,New York,62.98,Sports,Cash,2
+CUST_0934,50,Male,Los Angeles,416.24,Home Decor,Google Pay,4
+CUST_0935,68,Female,New York,437.61,Clothing,Debit Card,3
+CUST_0936,30,Female,San Francisco,135.97,Electronics,Google Pay,4
+CUST_0937,45,Female,Chicago,177.21,Sports,PayPal,3
+CUST_0938,43,Male,Chicago,9.16,Electronics,Debit Card,2
+CUST_0939,63,Male,Houston,92.7,Books,Credit Card,3
+CUST_0940,65,Female,Los Angeles,353.93,Home Decor,PayPal,2
+CUST_0941,58,Male,New York,283.26,Electronics,Cash,4
+CUST_0942,41,Female,Houston,438.97,Grocery,Google Pay,3
+CUST_0943,45,Male,Los Angeles,143.34,Books,Credit Card,5
+CUST_0944,28,Male,Los Angeles,281.71,Sports,Debit Card,4
+CUST_0945,67,Female,San Francisco,136.67,Clothing,PayPal,5
+CUST_0946,48,Female,Los Angeles,261.45,Home Decor,Debit Card,2
+CUST_0947,32,Female,San Francisco,60.21,Electronics,Google Pay,1
+CUST_0948,34,Male,Chicago,318.71,Home Decor,Credit Card,5
+CUST_0949,22,Male,Houston,139.09,Grocery,Google Pay,4
+CUST_0950,53,Male,Chicago,368.27,Books,Google Pay,3
+CUST_0951,45,Male,San Francisco,306.6,Grocery,PayPal,3
+CUST_0952,20,Male,New York,62.96,Grocery,Credit Card,4
+CUST_0953,43,Male,Chicago,304.46,Home Decor,Google Pay,2
+CUST_0954,53,Male,Houston,425.57,Home Decor,Cash,2
+CUST_0955,57,Male,New York,341.67,Clothing,Cash,4
+CUST_0956,34,Male,New York,181.6,Home Decor,Google Pay,2
+CUST_0957,55,Male,Chicago,354.95,Grocery,Debit Card,4
+CUST_0958,36,Male,Houston,280.11,Grocery,PayPal,4
+CUST_0959,35,Female,New York,132.29,Books,Google Pay,5
+CUST_0960,37,Female,New York,474.47,Home Decor,Debit Card,2
+CUST_0961,20,Female,New York,420.77,Grocery,Cash,4
+CUST_0962,60,Female,Los Angeles,302.54,Home Decor,Debit Card,2
+CUST_0963,26,Female,San Francisco,344.44,Sports,Credit Card,3
+CUST_0964,56,Male,Los Angeles,142.88,Home Decor,Debit Card,3
+CUST_0965,48,Male,San Francisco,495.12,Grocery,Google Pay,3
+CUST_0966,58,Male,Los Angeles,48.41,Sports,Google Pay,1
+CUST_0967,24,Female,New York,57.18,Sports,Cash,1
+CUST_0968,44,Female,San Francisco,418.47,Sports,Credit Card,2
+CUST_0969,60,Male,New York,158.24,Books,Credit Card,2
+CUST_0970,31,Male,Chicago,454.59,Grocery,Debit Card,5
+CUST_0971,24,Male,Houston,307.23,Clothing,Cash,3
+CUST_0972,23,Male,Chicago,282.09,Home Decor,Google Pay,3
+CUST_0973,63,Female,New York,43.77,Grocery,Credit Card,2
+CUST_0974,26,Male,San Francisco,263.23,Sports,Google Pay,3
+CUST_0975,43,Female,New York,205.72,Electronics,Google Pay,5
+CUST_0976,61,Female,Houston,26.36,Home Decor,Cash,2
+CUST_0977,64,Female,Chicago,301.78,Books,PayPal,4
+CUST_0978,45,Male,Houston,452.52,Sports,Debit Card,4
+CUST_0979,29,Male,Houston,267.04,Grocery,PayPal,5
+CUST_0980,26,Male,New York,482.44,Sports,Credit Card,1
+CUST_0981,23,Female,Chicago,130.8,Clothing,Cash,3
+CUST_0982,20,Female,San Francisco,83.83,Electronics,Cash,3
+CUST_0983,34,Male,New York,263.75,Books,Credit Card,2
+CUST_0984,34,Female,San Francisco,491.94,Sports,Cash,2
+CUST_0985,54,Male,New York,400.98,Sports,Debit Card,4
+CUST_0986,22,Female,Los Angeles,367.07,Electronics,Debit Card,2
+CUST_0987,50,Male,Los Angeles,166.71,Clothing,PayPal,5
+CUST_0988,26,Female,New York,36.94,Electronics,PayPal,5
+CUST_0989,25,Female,San Francisco,457.18,Clothing,Credit Card,3
+CUST_0990,52,Female,Los Angeles,147.15,Books,Credit Card,1
+CUST_0991,56,Male,Chicago,21.89,Sports,Credit Card,2
+CUST_0992,28,Male,New York,127.18,Home Decor,Debit Card,1
+CUST_0993,23,Male,Chicago,49.57,Sports,Cash,4
+CUST_0994,65,Female,New York,157.81,Home Decor,PayPal,2
+CUST_0995,57,Male,San Francisco,428.32,Books,Cash,2
+CUST_0996,24,Female,New York,449.27,Electronics,Debit Card,4
+CUST_0997,34,Male,New York,164.5,Grocery,Cash,1
+CUST_0998,20,Male,Houston,260.82,Sports,Credit Card,2
+CUST_0999,67,Female,Los Angeles,355.52,Grocery,Google Pay,5
+CUST_1000,39,Male,Chicago,326.64,Grocery,PayPal,3
+CUST_1001,21,Male,San Francisco,373.07,Home Decor,PayPal,2
+CUST_1002,46,Male,San Francisco,260.47,Grocery,Debit Card,5
+CUST_1003,47,Male,San Francisco,288.63,Sports,PayPal,2
+CUST_1004,22,Male,Los Angeles,183.68,Electronics,Credit Card,5
+CUST_1005,66,Male,Chicago,423.13,Home Decor,Cash,1
+CUST_1006,36,Female,San Francisco,366.9,Home Decor,Google Pay,4
+CUST_1007,45,Female,San Francisco,487.21,Sports,PayPal,5
+CUST_1008,69,Female,Los Angeles,40.1,Clothing,PayPal,4
+CUST_1009,21,Male,San Francisco,326.0,Clothing,PayPal,3
+CUST_1010,56,Female,Los Angeles,395.66,Books,Credit Card,3
+CUST_1011,61,Female,Chicago,277.83,Electronics,Cash,4
+CUST_1012,50,Male,San Francisco,480.08,Books,Credit Card,1
+CUST_1013,41,Male,San Francisco,41.41,Sports,Cash,1
+CUST_1014,47,Male,New York,80.82,Clothing,PayPal,1
+CUST_1015,38,Male,Houston,71.9,Books,Cash,4
+CUST_1016,58,Male,New York,291.09,Electronics,PayPal,2
+CUST_1017,49,Male,Los Angeles,25.95,Sports,Debit Card,2
+CUST_1018,30,Male,Los Angeles,14.08,Sports,Google Pay,1
+CUST_1019,21,Female,San Francisco,138.4,Home Decor,Google Pay,5
+CUST_1020,26,Female,Houston,201.88,Electronics,Cash,5
+CUST_1021,34,Female,New York,115.68,Electronics,Google Pay,4
+CUST_1022,67,Male,Chicago,335.0,Grocery,Credit Card,1
+CUST_1023,66,Female,Los Angeles,302.28,Grocery,PayPal,3
+CUST_1024,67,Male,Houston,221.11,Grocery,Cash,2
+CUST_1025,27,Female,Los Angeles,434.73,Home Decor,Debit Card,3
+CUST_1026,61,Male,San Francisco,487.05,Electronics,Google Pay,3
+CUST_1027,62,Male,San Francisco,397.06,Electronics,Credit Card,1
+CUST_1028,55,Male,Houston,63.46,Sports,Credit Card,4
+CUST_1029,64,Male,Los Angeles,111.81,Grocery,Debit Card,4
+CUST_1030,48,Female,New York,131.97,Electronics,Debit Card,4
+CUST_1031,35,Female,Los Angeles,35.64,Books,PayPal,1
+CUST_1032,21,Male,Los Angeles,262.8,Grocery,Debit Card,2
+CUST_1033,30,Female,New York,329.5,Clothing,PayPal,4
+CUST_1034,58,Male,Houston,276.38,Clothing,Cash,4
+CUST_1035,51,Male,New York,145.38,Electronics,Google Pay,2
+CUST_1036,31,Female,Chicago,73.84,Books,Cash,2
+CUST_1037,33,Female,New York,482.54,Grocery,Debit Card,4
+CUST_1038,32,Female,Houston,181.19,Home Decor,Cash,2
+CUST_1039,68,Male,Houston,465.34,Sports,Cash,5
+CUST_1040,65,Male,New York,492.3,Grocery,PayPal,2
+CUST_1041,62,Male,New York,101.81,Electronics,Cash,4
+CUST_1042,30,Female,San Francisco,180.53,Sports,Google Pay,4
+CUST_1043,42,Female,San Francisco,58.75,Books,Google Pay,1
+CUST_1044,41,Female,Los Angeles,145.77,Grocery,PayPal,5
+CUST_1045,54,Female,Chicago,138.86,Books,Google Pay,1
+CUST_1046,63,Male,Houston,483.13,Home Decor,Google Pay,2
+CUST_1047,18,Female,Chicago,459.98,Books,Credit Card,4
+CUST_1048,50,Male,San Francisco,367.9,Clothing,Credit Card,4
+CUST_1049,56,Male,San Francisco,28.21,Home Decor,Debit Card,4
+CUST_1050,56,Female,Los Angeles,81.43,Books,Google Pay,3
+CUST_1051,45,Male,Houston,264.67,Books,PayPal,4
+CUST_1052,18,Male,Houston,245.73,Grocery,Debit Card,1
+CUST_1053,66,Male,Chicago,396.91,Home Decor,Google Pay,4
+CUST_1054,23,Male,Los Angeles,456.52,Books,Credit Card,1
+CUST_1055,34,Female,Houston,445.89,Sports,Cash,5
+CUST_1056,34,Male,Los Angeles,45.54,Clothing,Credit Card,3
+CUST_1057,47,Male,San Francisco,109.49,Sports,Credit Card,3
+CUST_1058,40,Male,Houston,150.85,Clothing,Credit Card,4
+CUST_1059,52,Male,Chicago,393.32,Sports,Credit Card,4
+CUST_1060,46,Female,San Francisco,127.51,Books,Cash,1
+CUST_1061,27,Female,New York,140.36,Books,PayPal,5
+CUST_1062,32,Male,Chicago,116.57,Books,Credit Card,4
+CUST_1063,66,Male,San Francisco,254.66,Clothing,Debit Card,5
+CUST_1064,19,Female,Houston,157.62,Sports,Google Pay,4
+CUST_1065,69,Male,Los Angeles,303.7,Books,Cash,5
+CUST_1066,48,Female,New York,457.86,Home Decor,Debit Card,4
+CUST_1067,30,Female,San Francisco,205.69,Home Decor,Google Pay,3
+CUST_1068,20,Female,San Francisco,458.42,Home Decor,Google Pay,1
+CUST_1069,37,Female,Houston,201.74,Sports,Debit Card,4
+CUST_1070,67,Male,New York,253.7,Electronics,Debit Card,5
+CUST_1071,56,Female,Los Angeles,122.85,Home Decor,Cash,2
+CUST_1072,57,Male,San Francisco,109.83,Clothing,Credit Card,2
+CUST_1073,41,Male,Chicago,374.44,Clothing,Debit Card,3
+CUST_1074,59,Male,Los Angeles,408.24,Sports,Debit Card,5
+CUST_1075,38,Male,Los Angeles,356.64,Sports,Cash,4
+CUST_1076,39,Male,Los Angeles,89.05,Clothing,Credit Card,1
+CUST_1077,47,Female,Houston,258.9,Books,Debit Card,4
+CUST_1078,53,Male,Chicago,333.54,Electronics,Cash,3
+CUST_1079,45,Female,San Francisco,323.79,Home Decor,Cash,3
+CUST_1080,46,Male,San Francisco,438.96,Sports,Google Pay,1
+CUST_1081,61,Male,Houston,139.87,Home Decor,Credit Card,4
+CUST_1082,34,Female,Houston,169.22,Grocery,PayPal,4
+CUST_1083,53,Male,San Francisco,289.17,Home Decor,Debit Card,1
+CUST_1084,49,Male,New York,191.39,Clothing,Google Pay,4
+CUST_1085,38,Male,Chicago,86.61,Grocery,Credit Card,4
+CUST_1086,30,Male,San Francisco,391.06,Sports,Debit Card,4
+CUST_1087,57,Male,San Francisco,245.59,Books,Cash,3
+CUST_1088,54,Female,Houston,177.37,Electronics,Cash,3
+CUST_1089,36,Female,Los Angeles,79.66,Sports,PayPal,3
+CUST_1090,29,Male,Houston,360.17,Sports,Google Pay,2
+CUST_1091,57,Male,Houston,324.16,Electronics,PayPal,3
+CUST_1092,53,Female,Los Angeles,236.6,Clothing,PayPal,4
+CUST_1093,50,Female,Chicago,103.9,Sports,Debit Card,1
+CUST_1094,48,Female,San Francisco,252.26,Grocery,Cash,2
+CUST_1095,32,Male,Los Angeles,255.71,Home Decor,Google Pay,5
+CUST_1096,37,Male,San Francisco,182.45,Sports,Google Pay,3
+CUST_1097,38,Male,Los Angeles,372.01,Grocery,Debit Card,3
+CUST_1098,36,Female,Houston,185.96,Grocery,PayPal,3
+CUST_1099,37,Male,Los Angeles,115.78,Grocery,Debit Card,4
+CUST_1100,27,Male,Los Angeles,328.55,Home Decor,Cash,5
+CUST_1101,58,Male,Houston,267.0,Grocery,Debit Card,4
+CUST_1102,43,Female,New York,497.11,Grocery,Debit Card,5
+CUST_1103,64,Male,Los Angeles,301.87,Books,PayPal,5
+CUST_1104,29,Female,New York,6.91,Sports,Google Pay,4
+CUST_1105,69,Female,Los Angeles,475.97,Grocery,Cash,3
+CUST_1106,34,Male,San Francisco,301.6,Books,Debit Card,2
+CUST_1107,35,Female,New York,244.91,Home Decor,Cash,4
+CUST_1108,52,Female,San Francisco,414.47,Clothing,PayPal,4
+CUST_1109,57,Male,San Francisco,438.21,Sports,Debit Card,2
+CUST_1110,46,Male,San Francisco,440.79,Electronics,PayPal,4
+CUST_1111,41,Female,New York,178.82,Home Decor,Google Pay,2
+CUST_1112,32,Female,Chicago,18.7,Grocery,Credit Card,4
+CUST_1113,41,Male,Houston,413.84,Home Decor,Google Pay,1
+CUST_1114,41,Male,New York,188.57,Books,Credit Card,3
+CUST_1115,22,Male,Chicago,163.75,Sports,Google Pay,4
+CUST_1116,42,Male,New York,79.07,Home Decor,PayPal,4
+CUST_1117,18,Female,San Francisco,77.97,Sports,Credit Card,3
+CUST_1118,67,Male,Houston,136.55,Grocery,Google Pay,1
+CUST_1119,35,Female,Chicago,193.88,Grocery,PayPal,1
+CUST_1120,41,Female,Los Angeles,132.39,Home Decor,PayPal,2
+CUST_1121,29,Male,Houston,85.21,Sports,Debit Card,3
+CUST_1122,47,Male,Chicago,123.06,Sports,PayPal,4
+CUST_1123,26,Female,Los Angeles,159.21,Clothing,Cash,5
+CUST_1124,50,Female,Los Angeles,23.88,Sports,Cash,1
+CUST_1125,37,Female,Los Angeles,439.34,Books,PayPal,5
+CUST_1126,29,Female,New York,168.75,Home Decor,Debit Card,5
+CUST_1127,43,Female,Los Angeles,338.87,Sports,Debit Card,3
+CUST_1128,67,Male,Chicago,380.37,Home Decor,PayPal,4
+CUST_1129,49,Female,New York,355.65,Grocery,Google Pay,4
+CUST_1130,21,Female,New York,52.97,Clothing,PayPal,1
+CUST_1131,31,Male,New York,65.6,Home Decor,Credit Card,3
+CUST_1132,28,Female,San Francisco,168.32,Books,PayPal,5
+CUST_1133,65,Male,Los Angeles,49.11,Electronics,Cash,4
+CUST_1134,19,Male,Chicago,348.39,Home Decor,Debit Card,5
+CUST_1135,37,Female,Chicago,13.61,Books,Google Pay,3
+CUST_1136,42,Male,Houston,488.42,Home Decor,Google Pay,3
+CUST_1137,43,Male,Houston,240.51,Home Decor,Debit Card,1
+CUST_1138,23,Male,Houston,485.27,Home Decor,Google Pay,4
+CUST_1139,60,Female,New York,338.86,Clothing,PayPal,4
+CUST_1140,62,Male,Houston,422.86,Grocery,Cash,1
+CUST_1141,45,Male,San Francisco,456.33,Electronics,PayPal,3
+CUST_1142,63,Female,San Francisco,105.71,Electronics,Google Pay,2
+CUST_1143,66,Female,Chicago,389.34,Electronics,Cash,1
+CUST_1144,26,Female,New York,185.65,Sports,Debit Card,2
+CUST_1145,31,Male,New York,114.55,Grocery,Google Pay,5
+CUST_1146,57,Male,Los Angeles,79.95,Books,Cash,2
+CUST_1147,28,Male,Chicago,24.68,Sports,Google Pay,5
+CUST_1148,47,Male,San Francisco,281.83,Sports,Google Pay,4
+CUST_1149,19,Male,San Francisco,32.05,Clothing,Cash,5
+CUST_1150,33,Female,Los Angeles,74.37,Home Decor,Google Pay,3
+CUST_1151,20,Female,Los Angeles,456.31,Grocery,Debit Card,5
+CUST_1152,63,Female,Houston,410.53,Sports,Google Pay,3
+CUST_1153,30,Female,Chicago,239.4,Electronics,Google Pay,3
+CUST_1154,49,Female,Los Angeles,125.56,Electronics,Credit Card,5
+CUST_1155,60,Female,Los Angeles,188.14,Clothing,Google Pay,2
+CUST_1156,47,Male,Chicago,226.47,Electronics,Cash,5
+CUST_1157,45,Male,Houston,227.56,Electronics,Google Pay,5
+CUST_1158,48,Female,New York,220.74,Home Decor,Google Pay,1
+CUST_1159,26,Male,Houston,346.2,Grocery,Google Pay,3
+CUST_1160,66,Female,San Francisco,288.76,Grocery,Debit Card,1
+CUST_1161,46,Female,Houston,483.57,Home Decor,PayPal,4
+CUST_1162,65,Female,Los Angeles,191.32,Electronics,Debit Card,2
+CUST_1163,30,Female,Chicago,190.12,Clothing,Credit Card,4
+CUST_1164,40,Female,San Francisco,16.11,Home Decor,Google Pay,5
+CUST_1165,69,Male,Houston,146.19,Home Decor,Cash,1
+CUST_1166,26,Female,Chicago,280.91,Books,Debit Card,4
+CUST_1167,41,Female,New York,173.35,Grocery,Google Pay,1
+CUST_1168,51,Male,New York,274.27,Books,Credit Card,3
+CUST_1169,40,Female,New York,136.4,Electronics,PayPal,5
+CUST_1170,29,Male,Houston,360.52,Home Decor,Google Pay,3
+CUST_1171,69,Male,New York,121.21,Electronics,PayPal,5
+CUST_1172,45,Male,San Francisco,52.24,Books,PayPal,1
+CUST_1173,69,Male,San Francisco,453.25,Grocery,Debit Card,3
+CUST_1174,38,Female,Los Angeles,160.66,Books,Google Pay,5
+CUST_1175,66,Male,Houston,293.15,Home Decor,Cash,5
+CUST_1176,36,Male,San Francisco,30.43,Home Decor,Debit Card,2
+CUST_1177,58,Male,San Francisco,418.67,Books,Credit Card,5
+CUST_1178,51,Female,Houston,65.47,Sports,Debit Card,5
+CUST_1179,62,Female,Houston,461.03,Clothing,Debit Card,4
+CUST_1180,43,Female,Los Angeles,480.78,Home Decor,Google Pay,3
+CUST_1181,19,Female,Chicago,497.58,Clothing,Credit Card,4
+CUST_1182,65,Male,San Francisco,296.61,Books,PayPal,2
+CUST_1183,64,Female,New York,174.09,Books,Google Pay,4
+CUST_1184,19,Female,New York,196.58,Home Decor,Credit Card,3
+CUST_1185,65,Male,Chicago,275.8,Sports,Credit Card,3
+CUST_1186,32,Female,Houston,441.12,Grocery,Debit Card,2
+CUST_1187,38,Male,Chicago,318.6,Sports,PayPal,4
+CUST_1188,33,Female,Chicago,19.28,Grocery,Credit Card,4
+CUST_1189,47,Female,Los Angeles,286.69,Grocery,Credit Card,4
+CUST_1190,20,Female,Chicago,100.73,Home Decor,Credit Card,3
+CUST_1191,23,Female,San Francisco,326.92,Home Decor,PayPal,1
+CUST_1192,27,Male,Houston,110.34,Sports,Credit Card,1
+CUST_1193,50,Male,Houston,116.62,Books,PayPal,4
+CUST_1194,40,Female,Los Angeles,251.72,Books,Debit Card,3
+CUST_1195,45,Male,Chicago,50.75,Sports,Cash,1
+CUST_1196,25,Female,Chicago,241.69,Books,Google Pay,4
+CUST_1197,45,Female,New York,371.84,Clothing,PayPal,2
+CUST_1198,46,Male,Los Angeles,139.48,Electronics,Debit Card,5
+CUST_1199,35,Male,San Francisco,45.87,Books,Cash,3
+CUST_1200,25,Female,Houston,25.88,Home Decor,Cash,5
+CUST_1201,31,Male,New York,384.04,Home Decor,Google Pay,5
+CUST_1202,66,Female,New York,450.36,Electronics,Credit Card,3
+CUST_1203,44,Male,Chicago,322.78,Clothing,PayPal,4
+CUST_1204,49,Female,San Francisco,14.19,Home Decor,Cash,1
+CUST_1205,30,Female,Houston,80.87,Electronics,Google Pay,3
+CUST_1206,69,Female,Los Angeles,41.11,Grocery,Cash,2
+CUST_1207,39,Male,Chicago,444.55,Home Decor,Debit Card,2
+CUST_1208,46,Male,San Francisco,61.68,Sports,Cash,1
+CUST_1209,28,Male,Los Angeles,469.09,Books,PayPal,4
+CUST_1210,24,Male,Chicago,283.15,Electronics,Cash,3
+CUST_1211,37,Female,Chicago,41.33,Books,Google Pay,3
+CUST_1212,18,Male,Los Angeles,85.64,Home Decor,Debit Card,4
+CUST_1213,50,Male,Chicago,75.71,Home Decor,Google Pay,2
+CUST_1214,58,Female,New York,338.8,Home Decor,Cash,3
+CUST_1215,49,Female,New York,223.38,Grocery,Debit Card,3
+CUST_1216,57,Male,New York,169.3,Sports,PayPal,1
+CUST_1217,38,Female,Los Angeles,148.34,Electronics,PayPal,3
+CUST_1218,60,Male,Houston,223.69,Clothing,Cash,5
+CUST_1219,32,Female,Los Angeles,330.2,Clothing,Cash,1
+CUST_1220,25,Male,Los Angeles,351.13,Electronics,Debit Card,2
+CUST_1221,19,Female,Houston,140.37,Grocery,Credit Card,1
+CUST_1222,65,Male,New York,262.21,Home Decor,PayPal,1
+CUST_1223,22,Female,New York,470.05,Grocery,PayPal,1
+CUST_1224,49,Female,San Francisco,235.71,Grocery,Credit Card,5
+CUST_1225,59,Male,New York,138.86,Clothing,Credit Card,3
+CUST_1226,53,Male,Chicago,289.68,Books,Debit Card,4
+CUST_1227,64,Female,Los Angeles,300.14,Home Decor,Cash,3
+CUST_1228,26,Male,San Francisco,461.21,Sports,Google Pay,5
+CUST_1229,64,Female,San Francisco,169.51,Home Decor,Debit Card,5
+CUST_1230,41,Male,Houston,25.67,Home Decor,PayPal,5
+CUST_1231,33,Male,Chicago,197.4,Grocery,Google Pay,4
+CUST_1232,68,Male,Los Angeles,53.55,Sports,Credit Card,4
+CUST_1233,18,Male,Chicago,131.38,Electronics,PayPal,4
+CUST_1234,19,Female,Houston,350.79,Sports,PayPal,5
+CUST_1235,37,Female,Houston,142.34,Grocery,Debit Card,1
+CUST_1236,62,Female,San Francisco,133.67,Electronics,Debit Card,4
+CUST_1237,68,Male,Houston,232.47,Books,Debit Card,5
+CUST_1238,23,Male,Houston,447.47,Clothing,Cash,2
+CUST_1239,49,Male,Houston,296.24,Sports,Cash,5
+CUST_1240,64,Female,Los Angeles,13.76,Electronics,Cash,1
+CUST_1241,38,Male,Chicago,369.04,Sports,Google Pay,5
+CUST_1242,65,Male,San Francisco,20.65,Clothing,Debit Card,4
+CUST_1243,26,Male,Los Angeles,347.58,Sports,PayPal,1
+CUST_1244,43,Female,Los Angeles,51.19,Home Decor,Credit Card,4
+CUST_1245,45,Male,Houston,240.47,Grocery,Debit Card,5
+CUST_1246,51,Female,San Francisco,456.03,Electronics,Credit Card,1
+CUST_1247,60,Male,New York,42.74,Clothing,Debit Card,3
+CUST_1248,39,Female,Houston,231.37,Sports,Google Pay,5
+CUST_1249,65,Male,Houston,44.86,Sports,PayPal,2
+CUST_1250,58,Male,San Francisco,486.69,Sports,Cash,2
+CUST_1251,28,Male,Houston,292.91,Electronics,PayPal,2
+CUST_1252,69,Female,Houston,253.8,Sports,Google Pay,3
+CUST_1253,46,Male,Chicago,155.62,Sports,Credit Card,4
+CUST_1254,47,Male,San Francisco,15.19,Electronics,Credit Card,3
+CUST_1255,38,Male,Chicago,11.53,Sports,Credit Card,2
+CUST_1256,64,Male,San Francisco,465.31,Books,Google Pay,3
+CUST_1257,69,Male,Los Angeles,164.01,Grocery,Debit Card,4
+CUST_1258,23,Male,New York,382.08,Home Decor,PayPal,4
+CUST_1259,64,Female,New York,273.27,Electronics,PayPal,5
+CUST_1260,29,Female,Chicago,127.48,Books,Credit Card,3
+CUST_1261,35,Female,Houston,28.77,Clothing,Credit Card,4
+CUST_1262,61,Male,Houston,182.76,Grocery,Debit Card,5
+CUST_1263,38,Female,Houston,448.15,Grocery,PayPal,4
+CUST_1264,48,Male,New York,122.47,Grocery,Cash,3
+CUST_1265,68,Male,Houston,102.8,Sports,PayPal,1
+CUST_1266,25,Female,New York,279.94,Sports,Google Pay,1
+CUST_1267,49,Male,New York,123.18,Electronics,Google Pay,1
+CUST_1268,26,Male,New York,365.98,Electronics,Google Pay,2
+CUST_1269,59,Female,Houston,136.27,Grocery,Debit Card,3
+CUST_1270,66,Male,Houston,371.74,Clothing,Google Pay,4
+CUST_1271,44,Female,Chicago,337.98,Sports,Google Pay,3
+CUST_1272,67,Female,San Francisco,374.54,Books,Cash,3
+CUST_1273,34,Female,New York,492.79,Books,PayPal,5
+CUST_1274,50,Female,Houston,290.81,Home Decor,Google Pay,1
+CUST_1275,47,Male,Los Angeles,405.27,Sports,Cash,3
+CUST_1276,41,Female,Houston,395.69,Electronics,Google Pay,4
+CUST_1277,53,Male,Los Angeles,255.04,Clothing,Credit Card,3
+CUST_1278,57,Male,Los Angeles,402.72,Books,PayPal,1
+CUST_1279,55,Female,Chicago,74.31,Sports,Credit Card,2
+CUST_1280,18,Male,San Francisco,141.73,Sports,Credit Card,1
+CUST_1281,19,Male,Chicago,227.75,Clothing,Cash,1
+CUST_1282,53,Male,Chicago,357.93,Sports,Cash,2
+CUST_1283,48,Female,Chicago,394.66,Home Decor,Cash,1
+CUST_1284,40,Male,Los Angeles,371.86,Grocery,Debit Card,5
+CUST_1285,64,Male,Houston,95.95,Books,PayPal,1
+CUST_1286,51,Female,Los Angeles,331.43,Grocery,Cash,3
+CUST_1287,46,Male,Los Angeles,49.73,Electronics,Credit Card,3
+CUST_1288,44,Female,New York,274.1,Books,Cash,2
+CUST_1289,37,Female,Los Angeles,212.65,Books,Google Pay,2
+CUST_1290,37,Male,San Francisco,131.78,Grocery,PayPal,5
+CUST_1291,64,Female,Houston,79.79,Home Decor,Debit Card,1
+CUST_1292,51,Male,New York,223.97,Sports,Cash,2
+CUST_1293,41,Female,Los Angeles,488.41,Electronics,PayPal,4
+CUST_1294,30,Female,Chicago,226.37,Books,Debit Card,4
+CUST_1295,61,Female,Chicago,366.17,Home Decor,Credit Card,4
+CUST_1296,46,Female,Los Angeles,416.21,Home Decor,Credit Card,5
+CUST_1297,28,Female,San Francisco,42.17,Sports,PayPal,1
+CUST_1298,23,Female,Houston,60.34,Sports,Credit Card,2
+CUST_1299,45,Male,Houston,423.41,Sports,Google Pay,1
+CUST_1300,62,Female,Chicago,104.37,Home Decor,Credit Card,5
+CUST_1301,53,Male,Los Angeles,40.42,Home Decor,Debit Card,1
+CUST_1302,25,Male,San Francisco,263.93,Clothing,Google Pay,5
+CUST_1303,49,Male,Chicago,38.37,Books,Google Pay,1
+CUST_1304,67,Female,New York,69.66,Electronics,PayPal,1
+CUST_1305,26,Male,Houston,45.75,Grocery,Debit Card,3
+CUST_1306,60,Male,New York,274.32,Books,PayPal,5
+CUST_1307,40,Male,Chicago,140.25,Clothing,Cash,3
+CUST_1308,62,Female,San Francisco,60.08,Electronics,Google Pay,4
+CUST_1309,44,Female,Chicago,389.59,Clothing,PayPal,3
+CUST_1310,34,Female,Houston,389.04,Electronics,Google Pay,4
+CUST_1311,53,Male,Chicago,377.71,Home Decor,Cash,2
+CUST_1312,56,Male,San Francisco,318.06,Home Decor,PayPal,4
+CUST_1313,38,Female,New York,361.01,Home Decor,Cash,2
+CUST_1314,61,Male,New York,96.82,Books,PayPal,3
+CUST_1315,39,Male,Los Angeles,163.35,Electronics,PayPal,2
+CUST_1316,36,Male,Chicago,365.45,Home Decor,Cash,5
+CUST_1317,59,Male,Los Angeles,466.32,Electronics,Google Pay,4
+CUST_1318,45,Female,Los Angeles,345.11,Clothing,Credit Card,5
+CUST_1319,38,Female,Houston,329.71,Grocery,Credit Card,5
+CUST_1320,64,Female,Los Angeles,153.29,Grocery,Credit Card,5
+CUST_1321,46,Female,New York,192.64,Sports,Credit Card,4
+CUST_1322,43,Female,Chicago,368.03,Electronics,Debit Card,4
+CUST_1323,29,Male,New York,60.92,Grocery,Credit Card,1
+CUST_1324,53,Male,Los Angeles,269.3,Home Decor,Debit Card,1
+CUST_1325,35,Male,Los Angeles,121.24,Sports,Debit Card,4
+CUST_1326,34,Male,New York,402.44,Grocery,Credit Card,3
+CUST_1327,29,Male,Houston,418.85,Sports,PayPal,4
+CUST_1328,64,Female,San Francisco,317.2,Sports,Cash,5
+CUST_1329,57,Male,Los Angeles,159.73,Books,PayPal,4
+CUST_1330,19,Male,San Francisco,126.02,Home Decor,PayPal,1
+CUST_1331,57,Male,Los Angeles,474.4,Books,Credit Card,3
+CUST_1332,62,Female,Houston,393.54,Sports,Debit Card,1
+CUST_1333,57,Female,Houston,111.53,Books,Cash,4
+CUST_1334,38,Female,New York,234.57,Clothing,PayPal,1
+CUST_1335,64,Male,Chicago,217.06,Clothing,Debit Card,4
+CUST_1336,52,Male,New York,244.83,Home Decor,PayPal,4
+CUST_1337,60,Female,San Francisco,215.21,Clothing,Credit Card,1
+CUST_1338,28,Male,Houston,218.43,Home Decor,Credit Card,3
+CUST_1339,31,Male,San Francisco,387.13,Home Decor,Google Pay,5
+CUST_1340,56,Female,Los Angeles,335.73,Grocery,Google Pay,4
+CUST_1341,18,Female,Houston,284.64,Books,PayPal,5
+CUST_1342,30,Male,Houston,80.98,Clothing,Cash,3
+CUST_1343,31,Female,Chicago,430.85,Sports,Debit Card,4
+CUST_1344,64,Male,Los Angeles,164.39,Clothing,Debit Card,3
+CUST_1345,32,Female,San Francisco,247.79,Grocery,Google Pay,4
+CUST_1346,58,Female,Chicago,459.31,Sports,PayPal,4
+CUST_1347,69,Female,Houston,452.57,Clothing,PayPal,5
+CUST_1348,42,Female,Los Angeles,378.84,Grocery,Google Pay,2
+CUST_1349,67,Male,Houston,11.8,Grocery,Google Pay,1
+CUST_1350,54,Male,Chicago,187.92,Grocery,Cash,1
+CUST_1351,45,Male,Houston,130.3,Sports,Credit Card,2
+CUST_1352,56,Female,Chicago,258.04,Sports,PayPal,3
+CUST_1353,28,Male,San Francisco,99.39,Grocery,Google Pay,1
+CUST_1354,35,Male,New York,233.88,Home Decor,PayPal,3
+CUST_1355,55,Female,Los Angeles,90.28,Electronics,Cash,2
+CUST_1356,39,Female,Chicago,42.4,Electronics,Credit Card,4
+CUST_1357,45,Female,Chicago,409.64,Clothing,Debit Card,3
+CUST_1358,19,Female,Houston,212.48,Books,Credit Card,4
+CUST_1359,40,Female,San Francisco,311.13,Home Decor,PayPal,2
+CUST_1360,57,Female,New York,67.52,Sports,Debit Card,3
+CUST_1361,46,Female,Los Angeles,379.8,Electronics,Debit Card,1
+CUST_1362,64,Male,Chicago,446.13,Grocery,Credit Card,3
+CUST_1363,61,Female,Houston,186.43,Books,Credit Card,1
+CUST_1364,29,Female,Chicago,478.63,Grocery,Debit Card,5
+CUST_1365,44,Female,San Francisco,257.92,Clothing,Google Pay,3
+CUST_1366,60,Female,Los Angeles,136.28,Clothing,Debit Card,3
+CUST_1367,67,Male,New York,133.58,Clothing,Google Pay,4
+CUST_1368,66,Male,New York,227.29,Clothing,Cash,2
+CUST_1369,55,Female,San Francisco,447.46,Sports,Google Pay,4
+CUST_1370,26,Female,Los Angeles,416.05,Books,Credit Card,2
+CUST_1371,62,Female,Houston,420.72,Books,PayPal,2
+CUST_1372,35,Female,San Francisco,364.7,Home Decor,Debit Card,1
+CUST_1373,47,Male,Houston,169.01,Books,Google Pay,5
+CUST_1374,43,Male,Chicago,374.78,Home Decor,Google Pay,1
+CUST_1375,39,Male,San Francisco,388.42,Grocery,Debit Card,4
+CUST_1376,22,Female,Los Angeles,416.33,Home Decor,PayPal,3
+CUST_1377,37,Male,Houston,450.4,Home Decor,Google Pay,5
+CUST_1378,63,Female,Los Angeles,225.36,Home Decor,Cash,5
+CUST_1379,65,Female,Houston,270.46,Grocery,PayPal,5
+CUST_1380,49,Male,San Francisco,42.54,Grocery,Credit Card,2
+CUST_1381,23,Male,Chicago,90.6,Sports,Credit Card,4
+CUST_1382,21,Female,San Francisco,28.58,Grocery,PayPal,4
+CUST_1383,51,Male,Los Angeles,359.36,Books,Debit Card,3
+CUST_1384,37,Male,Chicago,146.4,Electronics,Debit Card,3
+CUST_1385,47,Male,Houston,398.41,Electronics,PayPal,3
+CUST_1386,69,Male,San Francisco,469.53,Clothing,Cash,5
+CUST_1387,46,Female,New York,329.47,Home Decor,PayPal,4
+CUST_1388,60,Male,Houston,284.33,Sports,Debit Card,3
+CUST_1389,27,Male,Houston,142.87,Sports,Debit Card,4
+CUST_1390,27,Female,Los Angeles,137.95,Home Decor,Google Pay,2
+CUST_1391,52,Female,Los Angeles,196.79,Books,Credit Card,5
+CUST_1392,20,Female,Los Angeles,23.79,Home Decor,Debit Card,3
+CUST_1393,45,Male,Los Angeles,411.47,Electronics,Cash,5
+CUST_1394,67,Female,Chicago,390.24,Books,Cash,5
+CUST_1395,66,Male,Houston,435.4,Clothing,Cash,1
+CUST_1396,44,Male,Los Angeles,484.79,Clothing,Cash,3
+CUST_1397,62,Female,Los Angeles,377.12,Grocery,PayPal,4
+CUST_1398,18,Female,New York,90.94,Grocery,Cash,4
+CUST_1399,46,Female,New York,483.84,Clothing,Cash,1
+CUST_1400,61,Female,San Francisco,82.81,Home Decor,Credit Card,3
+CUST_1401,67,Female,New York,60.62,Electronics,Debit Card,5
+CUST_1402,22,Male,New York,372.9,Clothing,PayPal,2
+CUST_1403,25,Female,San Francisco,496.67,Sports,PayPal,5
+CUST_1404,22,Female,San Francisco,400.15,Home Decor,Cash,2
+CUST_1405,32,Male,San Francisco,221.81,Sports,Cash,4
+CUST_1406,27,Female,Houston,79.62,Home Decor,Cash,3
+CUST_1407,37,Female,San Francisco,234.04,Home Decor,PayPal,2
+CUST_1408,67,Male,Houston,152.81,Grocery,Cash,4
+CUST_1409,63,Female,San Francisco,80.82,Books,Google Pay,4
+CUST_1410,55,Male,San Francisco,396.08,Sports,Google Pay,5
+CUST_1411,39,Male,Los Angeles,415.97,Sports,Cash,2
+CUST_1412,57,Female,Chicago,220.12,Sports,Google Pay,3
+CUST_1413,44,Male,San Francisco,211.28,Electronics,Cash,3
+CUST_1414,56,Female,Houston,375.86,Grocery,Cash,1
+CUST_1415,64,Female,New York,127.8,Clothing,Cash,5
+CUST_1416,26,Female,San Francisco,83.71,Electronics,Credit Card,4
+CUST_1417,65,Male,Chicago,340.01,Books,Google Pay,3
+CUST_1418,66,Male,New York,366.67,Electronics,Cash,2
+CUST_1419,27,Female,Chicago,389.75,Grocery,PayPal,3
+CUST_1420,24,Male,Los Angeles,237.0,Sports,Debit Card,5
+CUST_1421,48,Male,New York,426.12,Electronics,Cash,1
+CUST_1422,37,Female,New York,142.39,Grocery,Google Pay,5
+CUST_1423,36,Female,San Francisco,221.61,Grocery,Credit Card,3
+CUST_1424,66,Female,San Francisco,359.35,Books,PayPal,5
+CUST_1425,29,Male,Los Angeles,343.01,Grocery,Debit Card,5
+CUST_1426,28,Female,Houston,125.47,Electronics,Cash,3
+CUST_1427,53,Male,Los Angeles,347.56,Sports,Google Pay,4
+CUST_1428,33,Female,San Francisco,141.15,Electronics,Cash,2
+CUST_1429,50,Female,Chicago,432.5,Books,PayPal,4
+CUST_1430,22,Male,San Francisco,21.29,Books,Google Pay,4
+CUST_1431,34,Male,San Francisco,377.4,Electronics,PayPal,4
+CUST_1432,49,Male,San Francisco,381.27,Books,Credit Card,3
+CUST_1433,69,Female,Los Angeles,412.27,Books,Credit Card,2
+CUST_1434,55,Female,Houston,247.46,Grocery,Credit Card,5
+CUST_1435,28,Male,San Francisco,122.93,Electronics,Debit Card,5
+CUST_1436,48,Male,Houston,228.51,Sports,Google Pay,5
+CUST_1437,40,Male,New York,69.72,Home Decor,Debit Card,4
+CUST_1438,21,Female,New York,290.43,Sports,Cash,3
+CUST_1439,44,Female,New York,433.34,Grocery,Credit Card,3
+CUST_1440,18,Male,Houston,87.31,Sports,Credit Card,5
+CUST_1441,25,Male,New York,339.39,Clothing,Google Pay,3
+CUST_1442,25,Male,Houston,413.28,Clothing,Cash,3
+CUST_1443,38,Female,Chicago,222.83,Sports,PayPal,2
+CUST_1444,29,Male,San Francisco,455.96,Sports,Google Pay,4
+CUST_1445,20,Female,New York,95.75,Electronics,Credit Card,2
+CUST_1446,19,Male,San Francisco,56.35,Electronics,PayPal,4
+CUST_1447,37,Female,Los Angeles,125.35,Electronics,Debit Card,2
+CUST_1448,19,Male,New York,309.83,Books,Cash,2
+CUST_1449,23,Male,Los Angeles,432.7,Clothing,Credit Card,2
+CUST_1450,25,Male,New York,283.55,Sports,PayPal,4
+CUST_1451,38,Male,New York,377.75,Grocery,Credit Card,2
+CUST_1452,60,Female,Houston,95.65,Electronics,PayPal,4
+CUST_1453,22,Male,Los Angeles,327.39,Electronics,Debit Card,3
+CUST_1454,39,Male,Chicago,390.09,Clothing,Credit Card,5
+CUST_1455,69,Female,Los Angeles,188.2,Books,Cash,5
+CUST_1456,44,Female,Los Angeles,159.6,Sports,Debit Card,2
+CUST_1457,55,Male,San Francisco,278.66,Grocery,Cash,1
+CUST_1458,58,Female,Houston,14.51,Electronics,Debit Card,3
+CUST_1459,22,Female,Chicago,337.03,Sports,PayPal,3
+CUST_1460,44,Male,New York,39.12,Clothing,Credit Card,5
+CUST_1461,40,Female,Los Angeles,48.22,Books,PayPal,1
+CUST_1462,32,Male,San Francisco,474.27,Home Decor,Google Pay,3
+CUST_1463,23,Male,Chicago,345.49,Books,PayPal,1
+CUST_1464,43,Male,New York,48.51,Books,Debit Card,1
+CUST_1465,40,Female,Los Angeles,184.37,Sports,Google Pay,5
+CUST_1466,43,Female,San Francisco,91.71,Books,Debit Card,1
+CUST_1467,39,Male,Houston,485.3,Sports,PayPal,1
+CUST_1468,44,Male,San Francisco,331.0,Books,Cash,1
+CUST_1469,56,Female,Chicago,140.84,Electronics,Google Pay,1
+CUST_1470,42,Female,Los Angeles,332.58,Sports,Debit Card,1
+CUST_1471,31,Male,Houston,330.85,Home Decor,Cash,3
+CUST_1472,27,Male,New York,226.63,Home Decor,Debit Card,1
+CUST_1473,48,Male,San Francisco,155.57,Clothing,Debit Card,2
+CUST_1474,54,Female,San Francisco,167.55,Electronics,Credit Card,5
+CUST_1475,25,Female,Houston,199.9,Home Decor,Debit Card,5
+CUST_1476,51,Male,Chicago,155.2,Clothing,Credit Card,3
+CUST_1477,33,Female,San Francisco,290.4,Books,Credit Card,1
+CUST_1478,24,Female,Chicago,478.73,Clothing,Credit Card,4
+CUST_1479,20,Male,Chicago,145.41,Books,Google Pay,3
+CUST_1480,46,Female,Houston,96.48,Home Decor,Credit Card,3
+CUST_1481,42,Female,Chicago,384.01,Grocery,PayPal,5
+CUST_1482,53,Male,Los Angeles,206.41,Electronics,Credit Card,5
+CUST_1483,52,Female,New York,31.5,Grocery,PayPal,1
+CUST_1484,41,Male,Los Angeles,492.51,Clothing,Cash,5
+CUST_1485,49,Male,San Francisco,424.3,Books,Google Pay,3
+CUST_1486,28,Female,New York,301.59,Books,Credit Card,3
+CUST_1487,29,Male,Los Angeles,484.22,Sports,PayPal,3
+CUST_1488,38,Female,New York,469.21,Home Decor,PayPal,4
+CUST_1489,30,Female,Chicago,18.87,Grocery,Debit Card,4
+CUST_1490,33,Female,New York,286.35,Clothing,Cash,5
+CUST_1491,67,Female,Chicago,444.84,Home Decor,Cash,5
+CUST_1492,33,Male,Chicago,323.43,Books,PayPal,5
+CUST_1493,23,Male,Houston,353.58,Clothing,PayPal,2
+CUST_1494,27,Female,San Francisco,347.21,Clothing,Debit Card,1
+CUST_1495,22,Male,San Francisco,8.62,Clothing,Google Pay,5
+CUST_1496,49,Female,Los Angeles,355.94,Clothing,PayPal,3
+CUST_1497,19,Male,Los Angeles,339.48,Books,Cash,5
+CUST_1498,20,Male,Los Angeles,222.41,Home Decor,Credit Card,1
+CUST_1499,63,Male,Los Angeles,498.47,Books,PayPal,2
+CUST_1500,41,Male,New York,244.69,Electronics,PayPal,1
+CUST_1501,42,Male,San Francisco,465.89,Books,Credit Card,1
+CUST_1502,55,Female,New York,131.99,Sports,Debit Card,3
+CUST_1503,57,Female,Los Angeles,179.77,Books,Debit Card,2
+CUST_1504,31,Male,Houston,175.28,Electronics,PayPal,5
+CUST_1505,60,Female,San Francisco,21.66,Grocery,Credit Card,3
+CUST_1506,55,Female,San Francisco,106.93,Sports,Cash,4
+CUST_1507,54,Female,Chicago,373.39,Electronics,Google Pay,1
+CUST_1508,40,Male,Los Angeles,450.03,Grocery,Debit Card,4
+CUST_1509,40,Male,New York,413.03,Grocery,PayPal,2
+CUST_1510,44,Female,New York,403.98,Grocery,PayPal,4
+CUST_1511,20,Male,Chicago,408.59,Grocery,Google Pay,2
+CUST_1512,31,Female,Chicago,283.16,Books,Debit Card,2
+CUST_1513,31,Female,Chicago,294.44,Grocery,Cash,4
+CUST_1514,53,Female,Houston,368.81,Home Decor,Debit Card,2
+CUST_1515,57,Male,Chicago,371.01,Home Decor,Credit Card,1
+CUST_1516,35,Female,Chicago,286.7,Sports,Cash,2
+CUST_1517,31,Female,Chicago,386.08,Home Decor,Google Pay,2
+CUST_1518,67,Female,San Francisco,149.35,Home Decor,Credit Card,1
+CUST_1519,55,Female,Chicago,355.72,Electronics,Cash,2
+CUST_1520,51,Female,Los Angeles,264.43,Grocery,Google Pay,4
+CUST_1521,33,Male,New York,491.31,Grocery,PayPal,3
+CUST_1522,26,Male,Chicago,453.63,Sports,Credit Card,3
+CUST_1523,35,Female,Houston,167.51,Home Decor,Google Pay,4
+CUST_1524,23,Female,San Francisco,166.05,Sports,Credit Card,2
+CUST_1525,39,Male,Chicago,142.93,Electronics,Cash,4
+CUST_1526,50,Male,Chicago,273.0,Home Decor,PayPal,2
+CUST_1527,35,Male,San Francisco,72.86,Grocery,Google Pay,1
+CUST_1528,39,Female,Houston,484.72,Home Decor,PayPal,5
+CUST_1529,64,Male,Chicago,411.77,Electronics,PayPal,2
+CUST_1530,43,Male,Chicago,410.97,Sports,PayPal,3
+CUST_1531,64,Female,Chicago,66.21,Grocery,Google Pay,5
+CUST_1532,31,Male,Houston,66.09,Home Decor,PayPal,2
+CUST_1533,60,Female,Los Angeles,43.71,Home Decor,Cash,4
+CUST_1534,23,Female,New York,161.13,Sports,Debit Card,4
+CUST_1535,46,Male,New York,302.74,Home Decor,Debit Card,3
+CUST_1536,61,Female,Houston,287.29,Electronics,Debit Card,2
+CUST_1537,52,Female,New York,454.87,Sports,Credit Card,5
+CUST_1538,53,Male,New York,465.91,Home Decor,PayPal,5
+CUST_1539,33,Male,San Francisco,382.85,Home Decor,PayPal,1
+CUST_1540,60,Male,Los Angeles,107.85,Home Decor,Cash,4
+CUST_1541,66,Female,San Francisco,377.46,Grocery,Cash,4
+CUST_1542,18,Male,Houston,334.63,Grocery,PayPal,4
+CUST_1543,37,Male,Houston,175.86,Clothing,Debit Card,5
+CUST_1544,28,Female,Chicago,377.69,Books,Debit Card,4
+CUST_1545,58,Female,Chicago,182.0,Grocery,Debit Card,2
+CUST_1546,54,Male,San Francisco,388.53,Electronics,Cash,2
+CUST_1547,19,Female,Los Angeles,57.38,Books,Credit Card,5
+CUST_1548,38,Male,Chicago,462.81,Books,Debit Card,4
+CUST_1549,29,Male,Chicago,78.51,Home Decor,PayPal,4
+CUST_1550,31,Female,New York,151.84,Sports,Debit Card,2
+CUST_1551,48,Male,New York,405.39,Sports,Google Pay,5
+CUST_1552,35,Male,New York,267.85,Electronics,Google Pay,5
+CUST_1553,66,Male,Houston,27.98,Grocery,Debit Card,3
+CUST_1554,51,Female,Los Angeles,191.1,Sports,Cash,3
+CUST_1555,67,Male,San Francisco,427.45,Electronics,Cash,1
+CUST_1556,32,Male,Houston,174.53,Electronics,PayPal,4
+CUST_1557,68,Female,Chicago,148.77,Clothing,PayPal,4
+CUST_1558,45,Female,New York,388.9,Clothing,Credit Card,3
+CUST_1559,63,Male,San Francisco,41.77,Sports,Credit Card,4
+CUST_1560,48,Male,Los Angeles,201.14,Electronics,Cash,2
+CUST_1561,41,Male,Houston,50.66,Books,PayPal,4
+CUST_1562,24,Female,Chicago,107.26,Electronics,Google Pay,2
+CUST_1563,38,Female,San Francisco,38.85,Books,PayPal,1
+CUST_1564,33,Female,Chicago,407.16,Grocery,Debit Card,4
+CUST_1565,30,Male,New York,186.93,Books,Cash,5
+CUST_1566,48,Male,Chicago,291.17,Home Decor,Google Pay,4
+CUST_1567,31,Male,Los Angeles,112.3,Books,Cash,3
+CUST_1568,49,Female,New York,349.64,Home Decor,Google Pay,4
+CUST_1569,18,Female,Chicago,117.78,Clothing,Credit Card,5
+CUST_1570,31,Female,San Francisco,486.19,Electronics,Cash,5
+CUST_1571,32,Female,Chicago,253.42,Sports,Google Pay,1
+CUST_1572,55,Female,Houston,46.29,Electronics,Cash,4
+CUST_1573,32,Male,Houston,136.69,Sports,PayPal,5
+CUST_1574,69,Male,San Francisco,52.89,Grocery,Cash,2
+CUST_1575,56,Male,New York,278.2,Sports,Debit Card,2
+CUST_1576,59,Female,San Francisco,420.78,Sports,Google Pay,5
+CUST_1577,31,Female,New York,71.96,Electronics,Credit Card,3
+CUST_1578,27,Male,New York,122.29,Grocery,Google Pay,4
+CUST_1579,34,Male,New York,364.98,Home Decor,Debit Card,4
+CUST_1580,27,Male,Chicago,235.44,Sports,PayPal,4
+CUST_1581,61,Female,Houston,104.75,Books,Debit Card,4
+CUST_1582,62,Male,Chicago,270.56,Electronics,Google Pay,3
+CUST_1583,64,Male,San Francisco,216.0,Grocery,Google Pay,4
+CUST_1584,28,Female,Houston,121.45,Home Decor,Credit Card,5
+CUST_1585,32,Male,Chicago,414.6,Electronics,Cash,4
+CUST_1586,29,Male,Los Angeles,75.31,Sports,Debit Card,1
+CUST_1587,52,Male,San Francisco,190.84,Sports,Debit Card,3
+CUST_1588,23,Female,Houston,226.97,Sports,Google Pay,1
+CUST_1589,49,Female,Los Angeles,103.87,Grocery,Google Pay,3
+CUST_1590,35,Female,Houston,31.28,Electronics,PayPal,1
+CUST_1591,29,Male,San Francisco,19.01,Home Decor,Credit Card,5
+CUST_1592,34,Male,Los Angeles,370.33,Electronics,Debit Card,1
+CUST_1593,23,Male,Houston,164.68,Books,Debit Card,3
+CUST_1594,36,Female,New York,201.38,Books,Debit Card,5
+CUST_1595,32,Female,New York,242.38,Clothing,Debit Card,1
+CUST_1596,19,Male,New York,292.5,Clothing,Cash,1
+CUST_1597,43,Female,New York,311.02,Electronics,PayPal,5
+CUST_1598,21,Male,San Francisco,232.2,Home Decor,Debit Card,2
+CUST_1599,50,Male,San Francisco,46.25,Electronics,Google Pay,2
+CUST_1600,63,Female,Chicago,431.68,Books,Credit Card,4
+CUST_1601,46,Male,Houston,129.68,Sports,Google Pay,5
+CUST_1602,49,Female,New York,333.39,Books,PayPal,5
+CUST_1603,22,Female,New York,463.96,Grocery,Google Pay,2
+CUST_1604,66,Male,New York,41.88,Electronics,Google Pay,2
+CUST_1605,29,Female,Los Angeles,279.21,Books,Cash,5
+CUST_1606,31,Female,Chicago,368.3,Sports,PayPal,4
+CUST_1607,32,Male,San Francisco,109.65,Clothing,PayPal,1
+CUST_1608,37,Female,Los Angeles,126.18,Sports,Google Pay,3
+CUST_1609,56,Male,Los Angeles,229.02,Books,Credit Card,1
+CUST_1610,23,Male,San Francisco,210.12,Home Decor,Debit Card,4
+CUST_1611,62,Female,Los Angeles,394.92,Books,Debit Card,1
+CUST_1612,43,Male,New York,381.49,Electronics,Google Pay,4
+CUST_1613,50,Female,Los Angeles,148.34,Electronics,Google Pay,5
+CUST_1614,66,Male,Los Angeles,372.86,Sports,Google Pay,3
+CUST_1615,54,Male,Los Angeles,294.35,Grocery,PayPal,5
+CUST_1616,21,Male,New York,124.8,Grocery,Google Pay,1
+CUST_1617,57,Male,San Francisco,52.75,Clothing,Cash,1
+CUST_1618,37,Male,San Francisco,227.13,Home Decor,Credit Card,5
+CUST_1619,67,Male,San Francisco,183.46,Grocery,Cash,4
+CUST_1620,42,Male,Los Angeles,153.7,Sports,Credit Card,1
+CUST_1621,52,Female,New York,343.44,Books,Debit Card,5
+CUST_1622,57,Female,New York,255.62,Electronics,Credit Card,4
+CUST_1623,34,Male,Los Angeles,162.4,Electronics,Debit Card,5
+CUST_1624,67,Female,Los Angeles,124.85,Electronics,Debit Card,1
+CUST_1625,25,Female,Chicago,186.45,Clothing,Google Pay,5
+CUST_1626,26,Female,San Francisco,125.6,Sports,Credit Card,4
+CUST_1627,60,Female,Houston,87.89,Books,Cash,4
+CUST_1628,25,Female,Los Angeles,195.17,Electronics,Credit Card,5
+CUST_1629,24,Female,San Francisco,20.92,Books,PayPal,2
+CUST_1630,68,Female,New York,63.24,Sports,Debit Card,3
+CUST_1631,54,Female,New York,176.02,Sports,Credit Card,5
+CUST_1632,65,Female,San Francisco,142.18,Clothing,Credit Card,1
+CUST_1633,61,Male,Houston,439.01,Home Decor,Google Pay,2
+CUST_1634,21,Male,San Francisco,295.26,Sports,PayPal,5
+CUST_1635,37,Female,Los Angeles,350.27,Grocery,Cash,1
+CUST_1636,25,Female,San Francisco,437.2,Books,Credit Card,5
+CUST_1637,35,Male,Houston,340.2,Sports,Google Pay,5
+CUST_1638,53,Female,New York,385.64,Clothing,Cash,3
+CUST_1639,63,Male,Chicago,323.05,Grocery,Debit Card,2
+CUST_1640,52,Male,Houston,315.81,Home Decor,Debit Card,1
+CUST_1641,32,Female,Los Angeles,160.62,Electronics,Credit Card,4
+CUST_1642,63,Female,Houston,449.91,Home Decor,Google Pay,1
+CUST_1643,48,Male,Houston,344.15,Electronics,Credit Card,1
+CUST_1644,50,Male,Chicago,192.62,Clothing,Google Pay,2
+CUST_1645,21,Male,San Francisco,498.03,Electronics,PayPal,2
+CUST_1646,40,Female,Houston,356.89,Sports,Credit Card,3
+CUST_1647,57,Male,New York,132.15,Books,PayPal,5
+CUST_1648,48,Male,Houston,269.22,Grocery,Google Pay,3
+CUST_1649,26,Male,San Francisco,208.05,Books,Credit Card,4
+CUST_1650,31,Female,San Francisco,193.83,Electronics,Google Pay,5
+CUST_1651,24,Female,San Francisco,266.82,Sports,Credit Card,3
+CUST_1652,59,Female,Los Angeles,57.44,Electronics,Credit Card,3
+CUST_1653,19,Female,New York,354.25,Grocery,Credit Card,4
+CUST_1654,25,Male,San Francisco,64.21,Grocery,PayPal,3
+CUST_1655,18,Female,Chicago,221.92,Home Decor,Debit Card,2
+CUST_1656,30,Male,Los Angeles,266.16,Home Decor,Cash,5
+CUST_1657,64,Male,San Francisco,8.57,Electronics,PayPal,5
+CUST_1658,55,Female,Houston,180.78,Electronics,Debit Card,5
+CUST_1659,69,Male,Houston,7.01,Grocery,PayPal,4
+CUST_1660,35,Male,New York,288.91,Clothing,Google Pay,1
+CUST_1661,20,Male,Houston,393.95,Clothing,Debit Card,1
+CUST_1662,47,Female,Los Angeles,413.71,Sports,Cash,2
+CUST_1663,51,Female,Houston,54.67,Books,Google Pay,1
+CUST_1664,39,Female,New York,243.99,Books,Debit Card,1
+CUST_1665,58,Female,Los Angeles,224.62,Clothing,PayPal,4
+CUST_1666,39,Female,Chicago,144.79,Sports,Cash,5
+CUST_1667,59,Female,Houston,349.54,Home Decor,Credit Card,3
+CUST_1668,58,Female,Chicago,441.44,Electronics,Google Pay,5
+CUST_1669,62,Male,Chicago,106.01,Home Decor,Cash,3
+CUST_1670,45,Female,Houston,454.62,Clothing,Debit Card,2
+CUST_1671,69,Female,Los Angeles,182.66,Books,PayPal,2
+CUST_1672,63,Male,New York,18.72,Grocery,PayPal,3
+CUST_1673,60,Male,Houston,378.79,Sports,PayPal,2
+CUST_1674,69,Male,Chicago,442.57,Electronics,Cash,4
+CUST_1675,29,Male,Los Angeles,82.55,Home Decor,Debit Card,3
+CUST_1676,38,Male,Chicago,277.84,Electronics,Google Pay,5
+CUST_1677,27,Male,San Francisco,13.39,Grocery,Debit Card,2
+CUST_1678,66,Female,Chicago,56.36,Books,Credit Card,5
+CUST_1679,35,Female,Los Angeles,134.29,Electronics,Debit Card,3
+CUST_1680,26,Male,Houston,148.76,Sports,PayPal,4
+CUST_1681,43,Male,Houston,284.41,Electronics,Debit Card,1
+CUST_1682,43,Male,Chicago,264.9,Books,Debit Card,5
+CUST_1683,68,Male,Los Angeles,31.14,Sports,Credit Card,5
+CUST_1684,37,Female,San Francisco,269.74,Sports,PayPal,2
+CUST_1685,48,Female,Los Angeles,81.82,Sports,Google Pay,5
+CUST_1686,67,Female,San Francisco,66.31,Sports,Google Pay,1
+CUST_1687,44,Male,New York,66.37,Sports,Google Pay,5
+CUST_1688,48,Female,Houston,57.32,Electronics,Cash,1
+CUST_1689,45,Female,Houston,207.43,Electronics,Cash,5
+CUST_1690,60,Female,San Francisco,187.96,Electronics,Credit Card,1
+CUST_1691,26,Male,Houston,296.79,Books,PayPal,5
+CUST_1692,25,Female,Chicago,398.15,Sports,PayPal,2
+CUST_1693,18,Female,San Francisco,176.12,Sports,PayPal,5
+CUST_1694,47,Female,Los Angeles,362.2,Grocery,Credit Card,4
+CUST_1695,32,Male,New York,122.47,Clothing,Credit Card,3
+CUST_1696,49,Male,San Francisco,152.27,Grocery,PayPal,3
+CUST_1697,49,Female,San Francisco,360.43,Electronics,Debit Card,1
+CUST_1698,53,Male,Los Angeles,418.6,Clothing,PayPal,1
+CUST_1699,44,Female,Los Angeles,300.32,Home Decor,Credit Card,2
+CUST_1700,28,Male,Houston,236.61,Books,Credit Card,3
+CUST_1701,66,Male,Chicago,374.96,Books,PayPal,1
+CUST_1702,63,Female,Chicago,168.05,Sports,Cash,1
+CUST_1703,28,Female,Chicago,197.91,Grocery,Credit Card,1
+CUST_1704,24,Male,New York,92.37,Sports,PayPal,1
+CUST_1705,53,Female,San Francisco,127.15,Sports,Cash,5
+CUST_1706,47,Male,Houston,305.15,Books,Google Pay,1
+CUST_1707,56,Female,Chicago,189.02,Home Decor,Credit Card,3
+CUST_1708,47,Female,San Francisco,470.67,Grocery,Google Pay,2
+CUST_1709,60,Female,San Francisco,71.9,Sports,Credit Card,1
+CUST_1710,18,Female,Chicago,451.08,Clothing,Credit Card,1
+CUST_1711,32,Male,New York,229.52,Grocery,Debit Card,1
+CUST_1712,59,Female,San Francisco,252.32,Clothing,Cash,2
+CUST_1713,36,Female,Houston,75.91,Books,Cash,2
+CUST_1714,55,Male,Chicago,78.06,Grocery,Cash,3
+CUST_1715,36,Male,New York,48.07,Electronics,Credit Card,4
+CUST_1716,27,Female,Los Angeles,401.7,Clothing,PayPal,2
+CUST_1717,18,Male,San Francisco,301.35,Electronics,Cash,4
+CUST_1718,60,Male,Houston,37.99,Grocery,Cash,5
+CUST_1719,28,Male,Houston,491.49,Home Decor,Debit Card,3
+CUST_1720,28,Female,New York,22.49,Clothing,Google Pay,3
+CUST_1721,35,Female,San Francisco,132.85,Grocery,PayPal,5
+CUST_1722,20,Male,New York,492.73,Grocery,Cash,2
+CUST_1723,65,Male,New York,482.23,Electronics,PayPal,5
+CUST_1724,69,Female,San Francisco,269.38,Books,Google Pay,3
+CUST_1725,18,Female,Chicago,404.21,Sports,PayPal,1
+CUST_1726,34,Male,Houston,363.66,Home Decor,Credit Card,5
+CUST_1727,45,Male,Houston,309.96,Books,Debit Card,5
+CUST_1728,63,Male,New York,102.15,Grocery,Credit Card,4
+CUST_1729,49,Female,Los Angeles,97.24,Clothing,Debit Card,2
+CUST_1730,35,Female,Chicago,368.49,Home Decor,Debit Card,1
+CUST_1731,63,Male,San Francisco,43.24,Electronics,Cash,4
+CUST_1732,19,Female,Los Angeles,84.39,Books,PayPal,5
+CUST_1733,54,Male,New York,37.92,Clothing,Google Pay,5
+CUST_1734,39,Male,Chicago,72.33,Clothing,Credit Card,3
+CUST_1735,63,Male,San Francisco,114.43,Grocery,Google Pay,1
+CUST_1736,64,Male,Houston,385.0,Sports,PayPal,1
+CUST_1737,47,Female,San Francisco,185.52,Clothing,Cash,5
+CUST_1738,49,Male,New York,16.75,Home Decor,PayPal,5
+CUST_1739,27,Female,Chicago,15.31,Electronics,Google Pay,4
+CUST_1740,25,Male,Los Angeles,190.64,Books,Google Pay,2
+CUST_1741,52,Female,Chicago,437.41,Grocery,Google Pay,4
+CUST_1742,65,Female,New York,442.81,Books,Cash,2
+CUST_1743,61,Female,Chicago,134.35,Grocery,Cash,3
+CUST_1744,69,Male,San Francisco,105.42,Sports,PayPal,4
+CUST_1745,35,Female,Chicago,19.82,Books,Debit Card,1
+CUST_1746,44,Male,Chicago,111.64,Sports,PayPal,4
+CUST_1747,37,Female,New York,458.38,Books,Debit Card,2
+CUST_1748,52,Female,Los Angeles,391.52,Grocery,PayPal,4
+CUST_1749,36,Male,Houston,326.14,Electronics,PayPal,3
+CUST_1750,60,Female,Houston,321.78,Electronics,PayPal,3
+CUST_1751,22,Male,New York,119.22,Books,PayPal,5
+CUST_1752,45,Female,New York,176.8,Books,Credit Card,4
+CUST_1753,58,Male,Chicago,386.74,Electronics,Google Pay,3
+CUST_1754,39,Male,Chicago,40.19,Grocery,Credit Card,5
+CUST_1755,23,Male,Los Angeles,400.66,Grocery,PayPal,2
+CUST_1756,24,Female,New York,71.68,Home Decor,Credit Card,2
+CUST_1757,26,Male,Houston,220.32,Electronics,PayPal,2
+CUST_1758,18,Female,Chicago,360.25,Clothing,Google Pay,2
+CUST_1759,21,Male,New York,55.09,Books,Google Pay,4
+CUST_1760,41,Male,New York,234.1,Home Decor,Cash,2
+CUST_1761,19,Male,New York,91.71,Clothing,PayPal,1
+CUST_1762,61,Male,San Francisco,344.85,Sports,Cash,1
+CUST_1763,48,Female,New York,149.63,Grocery,Cash,2
+CUST_1764,66,Female,Houston,286.11,Sports,PayPal,2
+CUST_1765,60,Female,Chicago,138.55,Home Decor,Debit Card,3
+CUST_1766,69,Female,Houston,45.62,Clothing,Debit Card,2
+CUST_1767,18,Female,San Francisco,458.0,Home Decor,Debit Card,5
+CUST_1768,69,Female,Houston,216.36,Clothing,Cash,2
+CUST_1769,50,Male,Houston,303.57,Home Decor,Debit Card,5
+CUST_1770,61,Female,San Francisco,106.08,Books,Credit Card,4
+CUST_1771,40,Male,Chicago,145.43,Home Decor,Cash,5
+CUST_1772,69,Male,Houston,407.35,Books,Google Pay,4
+CUST_1773,66,Male,San Francisco,68.39,Electronics,Google Pay,3
+CUST_1774,46,Female,Chicago,221.18,Grocery,Credit Card,5
+CUST_1775,49,Male,Los Angeles,364.03,Grocery,Credit Card,5
+CUST_1776,46,Female,Los Angeles,234.37,Clothing,Credit Card,3
+CUST_1777,38,Male,Chicago,166.9,Electronics,Google Pay,5
+CUST_1778,43,Female,Houston,12.56,Electronics,PayPal,3
+CUST_1779,38,Female,New York,210.9,Books,Google Pay,1
+CUST_1780,39,Female,Houston,356.25,Books,Google Pay,1
+CUST_1781,54,Male,Los Angeles,468.55,Books,Debit Card,1
+CUST_1782,24,Male,Chicago,393.19,Grocery,Credit Card,4
+CUST_1783,55,Female,San Francisco,444.96,Sports,Credit Card,4
+CUST_1784,33,Female,New York,249.92,Grocery,Debit Card,1
+CUST_1785,41,Female,Los Angeles,9.77,Clothing,Debit Card,5
+CUST_1786,22,Male,Houston,346.59,Electronics,Credit Card,2
+CUST_1787,30,Male,New York,344.2,Home Decor,PayPal,4
+CUST_1788,29,Male,Chicago,300.9,Electronics,Credit Card,1
+CUST_1789,34,Male,San Francisco,256.88,Books,Google Pay,4
+CUST_1790,69,Male,Chicago,399.66,Clothing,Debit Card,1
+CUST_1791,67,Male,New York,271.01,Electronics,Cash,1
+CUST_1792,51,Female,San Francisco,161.66,Books,PayPal,4
+CUST_1793,43,Female,San Francisco,491.2,Clothing,Google Pay,3
+CUST_1794,62,Female,Los Angeles,162.17,Home Decor,Cash,2
+CUST_1795,25,Female,Los Angeles,209.99,Home Decor,Google Pay,1
+CUST_1796,48,Female,Houston,220.44,Electronics,Cash,3
+CUST_1797,24,Male,San Francisco,22.32,Sports,Credit Card,3
+CUST_1798,48,Female,Los Angeles,451.16,Books,Credit Card,3
+CUST_1799,43,Female,San Francisco,196.34,Home Decor,Credit Card,5
+CUST_1800,39,Female,New York,498.61,Clothing,Google Pay,2
+CUST_1801,56,Female,Houston,314.2,Home Decor,Google Pay,5
+CUST_1802,27,Male,Houston,322.2,Clothing,Credit Card,2
+CUST_1803,57,Male,Los Angeles,411.92,Books,Credit Card,1
+CUST_1804,20,Female,San Francisco,309.83,Books,Google Pay,3
+CUST_1805,38,Female,San Francisco,184.13,Home Decor,PayPal,3
+CUST_1806,37,Female,Houston,65.0,Sports,Cash,4
+CUST_1807,41,Male,Chicago,488.48,Books,PayPal,1
+CUST_1808,29,Female,San Francisco,393.75,Sports,Credit Card,3
+CUST_1809,60,Female,Houston,93.56,Home Decor,Credit Card,2
+CUST_1810,19,Male,Chicago,49.91,Electronics,Credit Card,5
+CUST_1811,31,Male,Los Angeles,236.59,Clothing,Credit Card,4
+CUST_1812,28,Male,Houston,340.82,Electronics,Google Pay,4
+CUST_1813,24,Male,Chicago,427.96,Sports,Google Pay,4
+CUST_1814,63,Male,Houston,55.02,Sports,Cash,1
+CUST_1815,44,Female,Houston,415.11,Electronics,Google Pay,3
+CUST_1816,63,Female,Houston,176.41,Grocery,Debit Card,4
+CUST_1817,64,Female,New York,460.42,Clothing,Credit Card,3
+CUST_1818,54,Male,Los Angeles,231.43,Electronics,Credit Card,3
+CUST_1819,38,Female,San Francisco,490.45,Home Decor,Debit Card,5
+CUST_1820,25,Female,Los Angeles,90.99,Books,PayPal,4
+CUST_1821,35,Female,Chicago,78.69,Home Decor,PayPal,2
+CUST_1822,67,Male,New York,491.64,Home Decor,PayPal,5
+CUST_1823,26,Male,San Francisco,200.96,Electronics,Google Pay,1
+CUST_1824,65,Female,Houston,38.05,Home Decor,PayPal,4
+CUST_1825,67,Female,Los Angeles,24.86,Books,Google Pay,2
+CUST_1826,55,Female,San Francisco,276.09,Electronics,Cash,1
+CUST_1827,22,Male,San Francisco,119.85,Books,PayPal,2
+CUST_1828,22,Female,Houston,46.6,Electronics,PayPal,4
+CUST_1829,30,Male,Chicago,309.91,Home Decor,Google Pay,3
+CUST_1830,30,Male,Houston,423.22,Grocery,Credit Card,4
+CUST_1831,39,Male,Chicago,415.86,Electronics,Credit Card,3
+CUST_1832,68,Male,San Francisco,299.27,Home Decor,Credit Card,4
+CUST_1833,19,Male,Houston,304.73,Electronics,Google Pay,5
+CUST_1834,22,Male,San Francisco,73.83,Electronics,PayPal,2
+CUST_1835,57,Female,Chicago,358.94,Clothing,PayPal,2
+CUST_1836,55,Female,Chicago,351.37,Sports,PayPal,1
+CUST_1837,58,Male,Houston,372.45,Grocery,Cash,1
+CUST_1838,62,Male,Chicago,55.17,Books,Credit Card,5
+CUST_1839,18,Female,Houston,450.65,Sports,PayPal,2
+CUST_1840,47,Male,San Francisco,191.25,Sports,Credit Card,3
+CUST_1841,57,Female,New York,63.33,Electronics,PayPal,2
+CUST_1842,25,Male,New York,69.18,Grocery,PayPal,4
+CUST_1843,49,Female,Houston,371.46,Sports,PayPal,1
+CUST_1844,20,Female,Los Angeles,36.93,Home Decor,Debit Card,4
+CUST_1845,69,Male,San Francisco,99.03,Clothing,Debit Card,5
+CUST_1846,41,Female,Los Angeles,463.41,Home Decor,Cash,1
+CUST_1847,35,Female,New York,200.8,Grocery,Credit Card,1
+CUST_1848,31,Male,New York,178.14,Clothing,Credit Card,1
+CUST_1849,26,Male,Los Angeles,227.35,Electronics,Credit Card,2
+CUST_1850,29,Female,San Francisco,99.58,Sports,PayPal,4
+CUST_1851,54,Male,Houston,43.42,Electronics,Credit Card,5
+CUST_1852,36,Female,Chicago,173.52,Sports,Google Pay,1
+CUST_1853,44,Male,Houston,214.98,Electronics,PayPal,3
+CUST_1854,51,Female,New York,114.29,Grocery,PayPal,4
+CUST_1855,36,Male,Chicago,322.54,Clothing,PayPal,2
+CUST_1856,41,Male,San Francisco,396.98,Grocery,PayPal,1
+CUST_1857,22,Male,Chicago,200.69,Electronics,PayPal,1
+CUST_1858,39,Female,Houston,177.04,Home Decor,PayPal,4
+CUST_1859,49,Female,Houston,121.53,Clothing,Credit Card,4
+CUST_1860,66,Female,Houston,141.9,Books,PayPal,5
+CUST_1861,21,Female,New York,118.24,Home Decor,Credit Card,5
+CUST_1862,40,Female,Los Angeles,21.46,Grocery,PayPal,1
+CUST_1863,35,Female,Chicago,268.24,Home Decor,PayPal,1
+CUST_1864,33,Female,San Francisco,234.05,Electronics,Credit Card,5
+CUST_1865,23,Male,San Francisco,169.08,Home Decor,Cash,5
+CUST_1866,69,Male,Houston,431.55,Grocery,Google Pay,5
+CUST_1867,60,Female,San Francisco,302.16,Clothing,Cash,1
+CUST_1868,31,Male,San Francisco,331.44,Sports,Google Pay,4
+CUST_1869,26,Male,Chicago,193.79,Electronics,Debit Card,3
+CUST_1870,36,Male,San Francisco,225.66,Electronics,Cash,2
+CUST_1871,48,Female,Houston,258.25,Sports,PayPal,2
+CUST_1872,22,Male,Chicago,271.96,Electronics,PayPal,3
+CUST_1873,55,Male,Houston,84.93,Clothing,Google Pay,5
+CUST_1874,47,Female,Houston,126.96,Clothing,Cash,1
+CUST_1875,51,Male,Los Angeles,187.83,Books,Cash,3
+CUST_1876,66,Female,Chicago,128.29,Home Decor,Credit Card,2
+CUST_1877,59,Female,San Francisco,146.55,Books,Cash,2
+CUST_1878,60,Female,Chicago,450.25,Clothing,Google Pay,1
+CUST_1879,68,Male,Houston,342.0,Electronics,Cash,4
+CUST_1880,42,Male,New York,262.37,Home Decor,Debit Card,3
+CUST_1881,64,Female,Los Angeles,154.85,Clothing,PayPal,3
+CUST_1882,45,Female,Houston,55.44,Books,Credit Card,1
+CUST_1883,66,Male,San Francisco,85.37,Grocery,Debit Card,5
+CUST_1884,55,Male,Los Angeles,149.6,Clothing,Cash,4
+CUST_1885,45,Female,Chicago,318.96,Sports,Google Pay,3
+CUST_1886,52,Male,Los Angeles,46.79,Electronics,PayPal,5
+CUST_1887,34,Male,New York,189.54,Sports,Cash,2
+CUST_1888,45,Female,New York,238.86,Electronics,PayPal,3
+CUST_1889,67,Female,Houston,82.43,Sports,Cash,4
+CUST_1890,48,Female,San Francisco,181.04,Clothing,Credit Card,2
+CUST_1891,66,Female,Los Angeles,91.33,Sports,Cash,2
+CUST_1892,65,Female,Los Angeles,299.4,Grocery,PayPal,2
+CUST_1893,18,Male,Houston,92.39,Grocery,Credit Card,3
+CUST_1894,63,Male,New York,161.62,Grocery,Credit Card,4
+CUST_1895,47,Female,Houston,290.73,Sports,Google Pay,2
+CUST_1896,32,Female,San Francisco,381.89,Sports,Debit Card,1
+CUST_1897,26,Male,Chicago,244.32,Sports,Credit Card,4
+CUST_1898,31,Male,Los Angeles,56.53,Home Decor,Debit Card,4
+CUST_1899,31,Male,New York,17.27,Books,Google Pay,2
+CUST_1900,24,Male,Houston,202.76,Home Decor,Debit Card,5
+CUST_1901,59,Male,Houston,154.37,Home Decor,Debit Card,5
+CUST_1902,65,Female,San Francisco,323.52,Clothing,Debit Card,2
+CUST_1903,20,Female,New York,126.24,Clothing,Cash,5
+CUST_1904,26,Male,San Francisco,482.43,Clothing,Cash,5
+CUST_1905,44,Female,Los Angeles,364.59,Home Decor,Google Pay,2
+CUST_1906,39,Male,San Francisco,159.9,Electronics,Debit Card,4
+CUST_1907,20,Male,Houston,86.73,Grocery,PayPal,2
+CUST_1908,51,Male,Houston,47.74,Books,Cash,5
+CUST_1909,46,Male,New York,146.7,Grocery,Google Pay,1
+CUST_1910,29,Female,Chicago,406.81,Sports,PayPal,3
+CUST_1911,61,Male,New York,115.72,Books,Cash,5
+CUST_1912,32,Female,Chicago,120.75,Electronics,PayPal,4
+CUST_1913,38,Female,San Francisco,98.54,Grocery,PayPal,2
+CUST_1914,46,Female,Los Angeles,413.21,Electronics,Credit Card,4
+CUST_1915,56,Female,San Francisco,351.9,Home Decor,Credit Card,2
+CUST_1916,67,Female,San Francisco,491.15,Grocery,Debit Card,2
+CUST_1917,45,Male,Los Angeles,297.93,Home Decor,Credit Card,5
+CUST_1918,44,Female,New York,353.68,Electronics,Credit Card,1
+CUST_1919,25,Male,Chicago,178.52,Electronics,Google Pay,4
+CUST_1920,34,Male,Los Angeles,48.3,Clothing,Debit Card,2
+CUST_1921,69,Male,Chicago,309.46,Electronics,Debit Card,4
+CUST_1922,52,Female,Houston,184.46,Electronics,Cash,3
+CUST_1923,40,Male,San Francisco,408.67,Clothing,Credit Card,3
+CUST_1924,25,Female,San Francisco,214.85,Sports,Cash,4
+CUST_1925,22,Male,San Francisco,274.4,Electronics,Credit Card,1
+CUST_1926,34,Male,New York,404.26,Clothing,Debit Card,2
+CUST_1927,50,Female,Houston,77.41,Grocery,Credit Card,5
+CUST_1928,61,Female,Los Angeles,370.82,Grocery,PayPal,3
+CUST_1929,68,Female,New York,51.29,Clothing,Cash,4
+CUST_1930,49,Female,Chicago,398.45,Books,Cash,4
+CUST_1931,50,Male,Houston,222.74,Clothing,Credit Card,1
+CUST_1932,32,Female,Houston,68.08,Clothing,Credit Card,1
+CUST_1933,24,Female,Los Angeles,372.27,Electronics,Cash,3
+CUST_1934,65,Male,Chicago,470.2,Clothing,Debit Card,1
+CUST_1935,61,Male,New York,283.35,Grocery,Google Pay,3
+CUST_1936,56,Female,San Francisco,213.8,Clothing,Cash,1
+CUST_1937,28,Male,Houston,377.29,Sports,PayPal,2
+CUST_1938,69,Male,San Francisco,185.18,Grocery,Credit Card,5
+CUST_1939,54,Female,Houston,283.36,Sports,Cash,4
+CUST_1940,37,Female,New York,369.99,Books,Debit Card,3
+CUST_1941,46,Male,Houston,472.33,Electronics,Debit Card,5
+CUST_1942,28,Female,San Francisco,304.82,Electronics,Google Pay,3
+CUST_1943,60,Male,Los Angeles,145.45,Books,PayPal,2
+CUST_1944,18,Female,Chicago,421.0,Sports,Cash,5
+CUST_1945,43,Male,Chicago,280.02,Electronics,Debit Card,5
+CUST_1946,69,Male,Houston,11.37,Home Decor,PayPal,1
+CUST_1947,64,Male,San Francisco,141.27,Home Decor,Credit Card,5
+CUST_1948,43,Male,Houston,486.18,Electronics,Debit Card,5
+CUST_1949,50,Male,Los Angeles,428.86,Electronics,Cash,5
+CUST_1950,22,Female,New York,419.77,Electronics,PayPal,5
+CUST_1951,51,Male,San Francisco,381.49,Sports,Cash,5
+CUST_1952,46,Male,San Francisco,222.8,Sports,Credit Card,2
+CUST_1953,38,Female,Chicago,368.04,Home Decor,PayPal,3
+CUST_1954,53,Male,New York,62.38,Home Decor,Credit Card,2
+CUST_1955,67,Male,San Francisco,166.09,Home Decor,Cash,1
+CUST_1956,58,Female,Los Angeles,296.71,Clothing,Cash,3
+CUST_1957,47,Male,Chicago,329.82,Home Decor,PayPal,3
+CUST_1958,66,Female,New York,18.69,Books,Credit Card,3
+CUST_1959,44,Male,New York,76.39,Electronics,Credit Card,2
+CUST_1960,38,Female,San Francisco,317.74,Grocery,PayPal,1
+CUST_1961,33,Male,Houston,134.43,Electronics,Google Pay,5
+CUST_1962,47,Male,San Francisco,365.36,Books,PayPal,2
+CUST_1963,22,Female,San Francisco,429.75,Books,Google Pay,5
+CUST_1964,25,Male,Chicago,232.68,Home Decor,Debit Card,3
+CUST_1965,24,Female,San Francisco,133.45,Sports,PayPal,1
+CUST_1966,28,Male,New York,201.72,Sports,PayPal,5
+CUST_1967,40,Male,Houston,296.49,Clothing,Google Pay,3
+CUST_1968,59,Female,Houston,464.7,Clothing,Debit Card,3
+CUST_1969,67,Female,San Francisco,445.76,Books,Google Pay,5
+CUST_1970,24,Male,Los Angeles,233.32,Clothing,Debit Card,2
+CUST_1971,49,Female,San Francisco,287.34,Sports,Debit Card,2
+CUST_1972,46,Male,Chicago,18.41,Clothing,Google Pay,3
+CUST_1973,30,Female,Houston,83.79,Electronics,PayPal,5
+CUST_1974,56,Male,Chicago,274.93,Clothing,PayPal,3
+CUST_1975,46,Female,Los Angeles,56.15,Sports,PayPal,5
+CUST_1976,35,Male,New York,157.21,Books,Credit Card,3
+CUST_1977,55,Female,New York,135.85,Sports,Google Pay,1
+CUST_1978,24,Female,San Francisco,213.87,Electronics,Google Pay,4
+CUST_1979,24,Male,Los Angeles,275.44,Sports,PayPal,3
+CUST_1980,64,Female,New York,82.77,Grocery,Debit Card,4
+CUST_1981,45,Male,New York,238.4,Sports,PayPal,2
+CUST_1982,35,Female,Los Angeles,126.5,Grocery,Credit Card,5
+CUST_1983,36,Male,Houston,305.88,Clothing,Debit Card,1
+CUST_1984,37,Male,Los Angeles,354.83,Books,Cash,1
+CUST_1985,50,Female,New York,109.68,Electronics,Cash,2
+CUST_1986,53,Female,New York,25.79,Clothing,Credit Card,3
+CUST_1987,47,Male,Chicago,89.55,Electronics,Google Pay,5
+CUST_1988,42,Male,Houston,471.33,Electronics,PayPal,3
+CUST_1989,53,Male,New York,27.97,Books,Cash,4
+CUST_1990,52,Male,Los Angeles,61.63,Home Decor,Google Pay,1
+CUST_1991,49,Male,San Francisco,457.81,Books,PayPal,1
+CUST_1992,30,Female,Los Angeles,230.06,Electronics,Credit Card,2
+CUST_1993,34,Male,New York,146.52,Home Decor,Debit Card,4
+CUST_1994,44,Female,San Francisco,53.85,Electronics,Google Pay,4
+CUST_1995,34,Male,New York,61.45,Sports,Credit Card,3
+CUST_1996,36,Male,New York,267.48,Sports,Cash,1
+CUST_1997,41,Male,Chicago,46.07,Clothing,PayPal,1
+CUST_1998,28,Female,Houston,201.41,Electronics,Debit Card,1
+CUST_1999,59,Male,Los Angeles,357.28,Home Decor,Cash,4
+CUST_2000,46,Female,New York,227.98,Sports,Credit Card,4
